@@ -326,5 +326,5 @@ Wudode ni ubimo mu, wuyunge Rwoth mi rwodhi! x2`,
 Wapeki dit ku wer ma nja, Wayungi Rwoth mi rwodhi! x2`,
       ],
     ],
-  },
+  }
 ];
