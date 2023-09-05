@@ -2742,8 +2742,8 @@ Mungu lwong'owu, ng'a m'uyio dong' ebin!`],
       },
       {
             id: '111',
-            key: "",
-            tempo: "/",
+            key: "G",
+            tempo: "6/8",
             collections: ["BA 54", "TH 163", "SW 90"],
             titles: ["Were kendo, e mit ira", "Wonderful Words of Life"],
             body: [
