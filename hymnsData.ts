@@ -2417,4 +2417,261 @@ Wan walubi calku yeny m'Iyenyo man wayungi ku ba ceng'.
 (Jalar Yesu, Jalar Y esu, bed i bang 'wa ku ba ceng x2)`],
             ]
       },
+      {
+            id: '98',
+            key: "Ab",
+            tempo: "4/4",
+            collections: ["BA 28", "H 155", "SW 199"],
+            titles: ["Ayero lem pa Yesu", "I Love to Tel"],
+            body: [
+                  [`Ayero lem pa Yesu, e mit mandha ira,
+Pi Yesu ku dwong pare, mer de m'Emaru kowa.
+Ayero lem pa Yesu, kum en lemandha,
+Eromo cwinya ceke ma sagu lem mange.`, `Ayero lem pa Yesu, Elaru ju m'urwinyo
+Ebodho ju m'uyio, Yesu m'umaruwa.`],
+                  [`Ayero lem pa Yesu, elar ekonya dre.
+Ayenyo dong' ayere kara ekonyi de,
+Ayero lem pa Yesu, esagu pidoic,
+Esagu mido mi cam, e mit ma sagu kic.`, `Ayero lem pa Yesu, Elaru ju m'urwinyo
+Ebodho ju m'uyio, Yesu m'umaruwa.`],
+                  [`Ayero lem pa Yesu, jumoko winjo ngo.
+Girem ni dwong pa Mungu, Lembariba wacu do.
+Ayero lem pa Yesu, e lem mi both iwa.
+Aol ungo niyere, ya Yesu tho piwa.`, `Ayero lem pa Yesu, Elaru ju m'urwinyo
+Ebodho ju m'uyio, Yesu m'umaruwa.`],
+                  [`Ayero lem pa Yesu, kum kec unego jo,
+Pi kwen mi kwo ma Yesu, Ecopo yeng'o ja
+Ayero lem pa Yesu, abed afoi Jalar.
+Amare con ku tin de, abibemare nja!`, `Ayero lem pa Yesu, Elaru ju m'urwinyo
+Ebodho ju m'uyio, Yesu m'umaruwa.`],
+            ]
+      },
+      {
+            id: '99',
+            key: "Eb",
+            tempo: "3/4",
+            collections: ["BA 40", "IH 405", "SW 97"],
+            titles: ["Naka an a jatic pa Jok", "Come Thou Fount"],
+            body: [
+                  [`Naka an a jatic pa Jok ku lem dubo pare de.
+Ento dong' ayenyo para i Jalar ma Wod Mungu.`, `Yesu roma kud anyong'a kum Emio kwo ma nja.
+En e Rwoth mwa ma Jalar mwa,
+En e Jamer mandhandha.`],
+                  [`Yesu Kristu yang' Ebino kar' Ebodhwa ju m'ukier.
+Man Eii ku wonabali nwang' eyenyo ya warwiny`, `Yesu roma kud anyong'a kum Emio kwo ma nja.
+En e Rwoth mwa ma Jalar mwa,
+En e Jamer mandhandha.`],
+                  [`Yesu Kristo ma jugure, kar' Edwok cwiny dhanu nyen.
+Ewodh dhanu kud i mudho, Etel wigi ka ma leng'.`, `Yesu roma kud anyong'a kum Emio kwo ma nja.
+En e Rwoth mwa ma Jalar mwa,
+En e Jamer mandhandha.`],
+                  [`Yesu Kristo Ebidwogo kar Ecokwa ju m'uboth.
+Wabibedo nja wakugi, Ebibimo dhanu yu.`, `Yesu roma kud anyong'a kum Emio kwo ma nja.
+En e Rwoth mwa ma Jalar mwa,
+En e Jamer mandhandha.`],
+            ]
+      },
+      {
+            id: '100',
+            key: "Ab",
+            tempo: "3/4",
+            collections: ["BA 41", "SW 308"],
+            titles: ["An ayenyona lonyo ku jupiny", "Is My Name Written There?"],
+            body: [
+                  [`An ayenyona lonyo ku jupiny dit ungo,
+An ayeny' amond i polo ba Yesu Kristu.
+I kitabu pa Mungu, e kitabu mi kwo,
+Ko iyer ira Yesu, nyo Igoro nyinga?`, `Nyo Igoro nyinga i kitabu mi kwo?
+I kitabu ma peri, nyo lgoro nyinga?`],
+                  [`Dubo para gi dupa calu kwio dhu nam,
+Ento rimo Jalarna uberucogi kpo.
+Lembe peri m'ukieure en e lembe mandha,
+Kadok dubo gi kwar ngbo, Ebilwokogi kpo.`, `Nyo Igoro nyinga i kitabu mi kwo?
+I kitabu ma peri, nyo lgoro nyinga?`],
+                  [`Pacu pare i polo, en e leng njwa mandha,
+Ju m'ubedo i ie kendo kendi ma tar.
+Dubo ceke mbe kuca man ke lem tho de mbe,
+Ka ma Yesu ni ie, nyo jugoro nyinga?`, `Nyo Igoro nyinga i kitabu mi kwo?
+I kitabu ma peri, nyo lgoro nyinga?`],
+            ]
+      },
+      {
+            id: '101',
+            key: "C",
+            tempo: "4/4",
+            collections: ["BA 42", "H 115", "SW 115"],
+            titles: ["Kulo rimo nuti m'udhenyni", "There is a Fountain"],
+            body: [
+                  [`Kulo rimo nuti m'udhenyni m'ebeai i ng'et Jalar,
+Tek judubo rony i kulone,
+(Ebilwoko dubo cen x2) Elwoko dubo cen.
+Tek judubo rony i kulone, Ebilwoko dubo cen.`],
+                  [`Yang' jakwo m'uvoc efoyo dit ni kum kisa pa Jalar.
+Keca an, m'adubo calu en,
+(An aweko dubna lwany x2) Aweko dubna lwany.
+Keca an, m'adubo calu en, an aweko dubna lwany.`],
+                  [`Nyathi Rombo tho pi dhanu yu, tego rimbe nuti asu.
+Cil inindo ma juyic mandha,
+(Gibiboth ni dubo ndhu x2) Giboth ni dubo ndhu.
+Cil i nindo ma juyic mandha, gibiboth ni dubo ndhu.`],
+                  [`Por m'aneno rimbi kuca Rwoth,
+Nwang' ethwogre ceng' m'Itho.
+Mer m'Imara ko uroma dit
+:(Ebiroma cil m'atho x2) Biroma cil m'atho.
+Mer m'Imara ko uroma dit, ebiroma cil m'atho.`],
+                  [`Abiwero wer ku dwal ma mit ma bipaku tegoni.
+Nwang'u leba maeni mi tho,
+(Daru vuto ling' i ng'om x2) Evuto ling'ing'om.
+Nwang'u lembe maeni mi tho, daru vuto ling' i ng'om.`],
+            ]
+      },
+      {
+            id: '102',
+            key: "G",
+            tempo: "4/4",
+            collections: ["BA 45", "IH 130", "SW 113"],
+            titles: ["Ang'o lwoko cwinya kpo?", "Nothing but the Blood"],
+            body: [
+                  [`Ang'o lwoko cwinya kpo? Rimo Jalar Yesu kende.
+Ang'o keyo cwinya ndhu? Rimo Jalar Yesu kende.`, `Rimo Jalar m'ucwir m'ulwoko ia ceke.
+Mana gin mange mbe, rimo Jalar Yesu kende.`],
+                  [`Gin m'ulwoko cwinya pet, rimo Jalar Yesu kende.
+Mungu e Jakisa dit, rimo Jalar Yesu kende.`, `Rimo Jalar m'ucwir m'ulwoko ia ceke.
+Mana gin mange mbe, rimo Jalar Yesu kende.`],
+                  [`Cul m'Eculo pira kpo, rimo Jalar Yesu kende.
+Berocwinya bodha ngo, rimo Jalar Yesu kende.`, `Rimo Jalar m'ucwir m'ulwoko ia ceke.
+Mana gin mange mbe, rimo Jalar Yesu kende.`],
+                  [`Ang'o dwoka doko leng'? rimo Jalar Yesu kende.
+Cwinya geno polo tin, kum rimb Jalar Yesu kende.`, `Rimo Jalar m'ucwir m'ulwoko ia ceke.
+Mana gin mange mbe, rimo Jalar Yesu kende.`],
+            ]
+      },
+      {
+            id: '103',
+            key: "Ab",
+            tempo: "4/4",
+            collections: ["BA 46", "IH 95", "SW 122"],
+            titles: ["In iwok ba Yesu", "Are You Washed?"],
+            body: [
+                  [`In iwok ba Yesu kara Elwoki?
+En Elwoki ku rimbe m'ucwir?
+Nindo nini in igeno berone?
+En Elwoki ku rimbe m'ucwir?`, `Elwoki ku rimo? En Elwoki ku rimbe m'ucwir?
+Cwinyi bedo leng' ma sagu vulo kpo?
+En Elwoki ku rimbe m'ucwir?`],
+                  [`In iwotho ku ba ceng' i ng'et Jalar?
+En Elwoki ku rimbe m'ucwir?
+In ijengri ru kor Yesu Kristu Rwoth?
+En Elwoki ku rimbe m'ucwir?`, `Elwoki ku rimo? En Elwoki ku rimbe m'ucwir?
+Cwinyi bedo leng' ma sagu vulo kpo?
+En Elwoki ku rimbe m'ucwir?`],
+                  [`Ceng' ma Yesu dwogo, Ebinweng'i leng"?
+En Elwoki ku rimbe m'ucwir?
+Ii doko tar ni kum rimb Jalarni?
+En Elwoki ku rimbe m'ucwir?`, `Elwoki ku rimo? En Elwoki ku rimbe m'ucwir?
+Cwinyi bedo leng' ma sagu vulo kpo?
+En Elwoki ku rimbe m'ucwir?`],
+                  [`Gin m'uwilo wii i kume, baye cen,
+Kar' Elwoki ku rimbe m'ucwir.
+Koc ku dubo ceke woth i bedopwe,
+Kum elwoki ku rimbe m'ucwir.`, `Elwoki ku rimo? En Elwoki ku rimbe m'ucwir?
+Cwinyi bedo leng' ma sagu vulo kpo?
+En Elwoki ku rimbe m'ucwir?`],
+            ]
+      },
+      {
+            id: '104',
+            key: "Eb",
+            tempo: "4/4",
+            collections: ["BA 47", "SW 116"],
+            titles: ["An amaru Mungu!", "Weeping Will Not Save"],
+            body: [
+                  [`An amaru Mungu! En ukungu mer mandha,
+Yesu bino yenyowa man Etho nilaruwa, wa judubo ceke.`, `An a nyathin pa Mungu, asikari pa Yesu.
+Abiworo cik pare, tegone bikonya.`],
+                  [`An amaru Yesu! Kum Emio kwo iwa,
+Kan Etho wi Golgotha, man Ebino ribowa,
+E jarimo mandha.`, `An a nyathin pa Mungu, asikari pa Yesu.
+Abiworo cik pare, tegone bikonya.`],
+                  [`Jajuk para nuti, ayenyo Eroma de,
+E Japonji para de, Etuco thelembene
+Mi lembe pa Mungu.`, `An a nyathin pa Mungu, asikari pa Yesu.
+Abiworo cik pare, tegone bikonya.`],
+                  [`Ava gin m'unega, woth ma yor i polo re,
+Kaka dhanu mandhandha, wabitimo tic ma leng'
+Nja ku nja k'anyong'a.`, `An a nyathin pa Mungu, asikari pa Yesu.
+Abiworo cik pare, tegone bikonya.`],
+            ]
+      },
+      {
+            id: '105',
+            key: "Eb",
+            tempo: "3/4",
+            collections: ["BA 48", "IH 189", "SW 111"],
+            titles: ["Rimo m'akira pire", "The Cleansing Stream"],
+            body: [
+                  [`Rimo m'akira pire wok bang'a m'a jadub0,
+Ya tek julwoka kude ngo dubna birucre ngo.`, `(Elonyowa x2) rimb Yesu cwir nilonyowa.
+Wafoi Jalar mwa Yesu kum Elonyowa ma nja ku nja.`],
+                  [`Awotho ngo i mudho tin, kum Yesu der mi ng'om.
+Etelo wia ku ba ceng alubo toke ndhu`, `(Elonyowa x2) rimb Yesu cwir nilonyowa.
+Wafoi Jalar mwa Yesu kum Elonyowa ma nja ku nja.`],
+                  [`Ia wang'li kum berone m'uketh Etho piwa
+Rwoth Yesu kende m n'uromo niyeyo dubo mwa.`, `(Elonyowa x2) rimb Yesu cwir nilonyowa.
+Wafoi Jalar mwa Yesu kum Elonyowa ma nja ku nja.`],
+            ]
+      },
+      {
+            id: '106',
+            key: "Ab",
+            tempo: "4/4",
+            collections: ["BA 49"],
+            titles: ["Yesu Kristu En e yo", "Egyptian Melody"],
+            body: [
+                  [`Yesu Kristu En e yo, kajik yoje kamaleng'.
+Tek wakwanyu yoje dre wabitundo i bang'e.`, `Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja
+Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja`],
+                  [`Yesu En e lemandha, En Edagu lem mi ndra
+Man e kwo ma nja ku nja terowa ndhu ba Wegwa.`, `Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja
+Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja`],
+                  [`Yesu Ene kwen mi kwo kec binegowa de ngo.
+Bed Imi kwen iwa do, kwen m'uai ndhu i polo.`, `Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja
+Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja`],
+                  [`Yesu Ene der mi ng'om, der m'umio iwa kwo.
+Woth mi mudho rwinyo jo der pare benyutho yo.`, `Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja
+Yesu Rwoth, Jalar mwa,
+Wabifoye nja ku nja`],
+            ]
+      },
+      {
+            id: '107',
+            key: "Bb",
+            tempo: "4/4",
+            collections: ["BA 50", "SW 124"],
+            titles: ["Yesu belwong'i bin", "Come to the Saviour"],
+            body: [
+                  [`Yesu belwong'i bin bang'e tho,
+Lem pare nyuthoe yo mi kwo.
+Ken' i kindwa Ecungo tin, Ewacu, "Dong ibin."`, `Wabinene kud anyong'a kwa
+Ku juwadwa ma gicokri lwar.
+Gidoko tar ma dubo de mbe rimb Yesu Iwokogi.`],
+                  [`Wuwek nyithindho bin ba Jalar,
+Kum ker mi polo migi mandha.
+Elwong'ogi ku cwinye ma ber, "Kud wugal ki Wubin"`, `Wabinene kud anyong'a kwa
+Ku juwadwa ma gicokri lwar.
+Gidoko tar ma dubo de mbe rimb Yesu Iwokogi.`],
+                  [`Par pire cu, Elwong'i asu,
+Man Ebijoli, bin bang'e pio.
+Wek dubo peri, lub tok Jalar En Ebinyoli nyen.`, `Wabinene kud anyong'a kwa
+Ku juwadwa ma gicokri lwar.
+Gidoko tar ma dubo de mbe rimb Yesu Iwokogi.`],
+            ]
+      },
 ];
