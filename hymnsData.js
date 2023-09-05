@@ -1315,4 +1315,141 @@ var hymns = [
             ["Ka tic mwa bedhingo thum, wabekuro yom ma nja.\nGin m'udong' ndhu genogen ma wageno kwo mandha.\nKa wakadhu yo mi tho, wan wajengra kum Jalar.\n\"Dong' imung yo, jawoth bin! Luba, abikobo in.\""],
         ]
     },
+    {
+        id: '87',
+        key: "F",
+        tempo: "6/4",
+        collections: ["IH 442", "SW 159"],
+        titles: ["Yesu i jarimona", "Jesus Lover of my Soul"],
+        body: [
+            ["Yesu i jarimona, wek ajeng'i kori In,\nKinde ma jubidha hai, ka Jok senda dit mandha.\nKura In, i Jalarna, cil m'abidhene bithum.\nYabna polo peri ngbeng', jol cwinya beng'i do."],
+            ["Ka m'aring i ie mbe, cwinya jengre ndhu kumi.\nKud ikuna abed rwa, gwoka, juka In asu.\nAn ageno para In, konyna kpo ai i beng'i.\nUm wia m'ubedo ngbeng' ku tipo mi bombi In."],
+            ["In i Kristu, Iroma, anweng'i Isagu kpo.\nBodh judubo, ju ma rwa, kei kum jo gwok ju ma kic.\nNyingi leng' man e mandha, a jadubo ma andre.\nI won bero mandhandha, an acido a jandra."],
+            ["Bero kpo ai i beng'i mak' eum dubona kpo.\nRimbi ene yath mandha, dwoka leng Igwoka ndhu.\nIn i kwo ma dhenyni nja, wek agam dru i beng'i.\nDhenjri ru yor i cwinya, meui ia nja ku nja."],
+        ]
+    },
+    {
+        id: '88',
+        key: "Ab",
+        tempo: "4/4",
+        collections: ["IH 145"],
+        titles: ["Yesu, Imara dit", "More Love to Thee"],
+        body: [
+            ["Yesu, Imara dit, keth ameri. Winj, aberwo iri,\nIn i Yesu. Apenjoi kumae keth ameri mandha,\nKeth ameri, keth ameri"],
+            ["Yang' con amaru gin mi ng om ceke,\nMeni aweke kpo kar' ameri.\nImara dit ma swa, keth ameri mandha,\nKeth ameri, keth ameri"],
+            ["Ka can bisenda dit ku lem mi tho,\nGin ma loro ri, akwero ngo.\nKonya awer asu, keth ameri mandha,\nKeth ameri, keth ameri"],
+            ["Ceng' moko abitho m'aweco ngo,\nLembe m'ayeroni bed ndhu kumae,\nIn ma Ilara ri, keth ameri mandha,\nKeth ameri, keth ameri"],
+        ]
+    },
+    {
+        id: '89',
+        key: "Eb",
+        tempo: "4/4",
+        collections: ["BA 17", "IH 30", "SW 245"],
+        titles: ["Bed i bang'a In i Rwoth", "Abide with Me"],
+        body: [
+            ["Bed i bang'a In i Rwoth Munguna,\nKa ceng' umwony e piny uyutho bi.\nKa jukony mange mbe, jajuk de mbe,\nIn i jajuk ma cu, bedi bang'a."],
+            ["I saa ma kwo mi kum mae bithum,\nYungri mi ng'om ku dwong'ne bikadhu.\nLokri ma swa mi ng'om ku nyothne de,\nIn ma Ilokri ngo bed i bang'a."],
+            ["Rwoth bed i bang'a ku ba ceng' ceke,\nMi ira tego, acir abidhe.\nI jatel wia kara awoth pwe,\nDieceng' ku diewor Rwoth bed i bang'a."],
+            ["Rupiny biwok, dhanu ceke bicer,\nAnyong'a nuti i polo ma ber.\nDer peri rieny, mudho ceke bithum,\nI kwo, i tho, Mungu, bed i bang'a."],
+        ]
+    },
+    {
+        id: '90',
+        key: "Bb",
+        tempo: "3/4",
+        collections: ["TH 64", "SW 173"],
+        titles: ["Jalar Yesu tel wia", "Jesus Saviour Pilot Me"],
+        body: [
+            ["Jalar Yesu tel wia, kum ang'eyo yoje ngo.\nWon abidhe nuti ndhu, en e riek, ewonda du.\nIn i Yesu Kristu Rwoth tek alubi abiboth."],
+            ["In Ing'eyo juka In, nwang'u cwinya dieng' ku can.\nNam ku yamu cungo ti, man wavuvu bedo si.\nIn Ing'eyo telo wic, In i Mungu ma Rucwic."],
+            ["In i Rwoth mi kwo ku tho keth' Icopo juka yo.\nMan i ceng' ma kuma voc, Ibinyutho ira yo.\nIbilwong'a k'i polo, \"Kud ilwor, Anuti do.\""],
+        ]
+    },
+    {
+        id: '91',
+        key: "F",
+        tempo: "6/8",
+        collections: ["IH 142"],
+        titles: ["Ndhu Tipo peri", "Thy Holy Spirit"],
+        body: [
+            ["Ndhu Tipo peri kende, Rwoth, m'Ecopo loko cwiny.\nE tego peri kende Rwoth belwokowa ma leng'.", "In Tipo mi yic, mi mer, tim tic i kindwa do.\nIdwok adundewa dok leng' tin romwa ku tegoni."],
+            ["Ndhu Tipo peri kende, Rwoth, binyayu mer iwa,\nMan Tipo peri calu mac, Eyepo cwinywa pet.", "In Tipo mi yic, mi mer, tim tic i kindwa do.\nIdwok adundewa dok leng' tin romwa ku tegoni."],
+            ["Ndhu Tipo peri kende, Rwoth, bikonyowa i tic,\nE dwande copo jukowa, Ekabu pidoic.", "In Tipo mi yic, mi mer, tim tic i kindwa do.\nIdwok adundewa dok leng' tin romwa ku tegoni."],
+            ["Ndhu Tipo peri kende, Rwoth, m'Emio beroni,\nKa wabekuro Tiponi, romwa, dwok iwa leng'.", "In Tipo mi yic, mi mer, tim tic i kindwa do.\nIdwok adundewa dok leng' tin romwa ku tegoni."],
+        ]
+    },
+    {
+        id: '92',
+        key: "G",
+        tempo: "4/4",
+        collections: ["SSS 309"],
+        titles: ["Yep cwinywa Rwoth", "Revive Thy Work "],
+        body: [
+            ["Yep cwinywa Rwoth Jalar, wakuro dwendi ling'.\nNg'ol iwa gin m'lyenyo ri, wayenyo wawoth leng'.", "Yep cwinywa, Rwoth Jalar, keth tic utimbre ber.\nWek Tipo peri romwa kpo, miwa mugisa do."],
+            ["Yep cwinywa Rwoth Jalar, yung nyingi edok dwong'.\nRom cwinywa kpo ku lem mi mer, wang' iwa li ve mac.", "Yep cwinywa, Rwoth Jalar, keth tic utimbre ber.\nWek Tipo peri romwa kpo, miwa mugisa do."],
+            ["Yep cwinywa Rwoth Jalar, nyuth lembe peri ngbeng'.\nKeth thelembe ma ng'eyo tek, ung'eire iwa ber.", "Yep cwinywa, Rwoth Jalar, keth tic utimbre ber.\nWek Tipo peri romwa kpo, miwa mugisa do."],
+            ["Yep cwinywa Rwoth Jalar, ku Tiponi ma leng'.\nIcer k'i tho wayere cu, wa jumulembene.", "Yep cwinywa, Rwoth Jalar, keth tic utimbre ber.\nWek Tipo peri romwa kpo, miwa mugisa do."],
+        ]
+    },
+    {
+        id: '93',
+        key: "F",
+        tempo: "4/4",
+        collections: ["IH 316", "SW 224"],
+        titles: ["Kpo bed iri In i Yesu", "All for Jesus"],
+        body: [
+            ["Kpo bed iri In i Yesu tegona m'Iwaru ri,\nTic ku pidoia bende, nindo para ku saa de.\n(Kpo bed iri In i Yesu, nindo para ku saa de x2)"],
+            ["Keth cinga tim tic m Inyutho, Iketh tienda de ring pio.\nWek wang'a nen In i kendi, man keth leba de pekI.\n(Kpo bed iri In i Yesu, keth leba bed upeki x2)"],
+            ["Por ma wang'a tal i beng'i gin kpo rwinyo i wang'a.\nDwong' peri de woki cwinya m'aneno ram juguri.\n(Kpo bed iri In i Yesu m' aneno ram juguri x2)"],
+            ["Ei ia wang' li i kumi, In m\u2019Ibimo rwodhi kpo.\nIdwok ndhu ni jamerni, Iketh ayom the bombi.\n(Kpo bed iri In i Yesu, Iketh ayom the bombi x2)"],
+        ]
+    },
+    {
+        id: '94',
+        key: "Ab",
+        tempo: "3/4",
+        collections: ["BA 73", "IH 100", "SW 238"],
+        titles: ["Cor ceng'ni bang'a", "I Need Thee Every Hour"],
+        body: [
+            ["Cor ceng'ni bang'a Rwoth, kwi cwinya, dwoka mol,\nKum tegona thum kot, a ng'ic e kuma ol.", "Bed ceng'ni, kud iweka, tego peri tieka.\nKonj bero peri roma, Rwoth para Yesu."],
+            ["Bed ceng'ni bang'a Rwoth, jabidhe senda dit.\nDwok ter mi cwinya yot, juka ku dwal ma mit.", "Bed ceng'ni, kud iweka, tego peri tieka.\nKonj bero peri roma, Rwoth para Yesu."],
+            ["Ling curna, Jajukna, Ing'eyo ndiba mwa,\nKu pidoic mi ng'om, man tho m'usendowa.", "Bed ceng'ni, kud iweka, tego peri tieka.\nKonj bero peri roma, Rwoth para Yesu."],
+            ["A ng'eca peri Rwoth, amira iri dho.\nKeth rimbi lwoka cu ku pidoia kpo.", "Bed ceng'ni, kud iweka, tego peri tieka.\nKonj bero peri roma, Rwoth para Yesu."],
+        ]
+    },
+    {
+        id: '95',
+        key: "F",
+        tempo: "3/4",
+        collections: ["SSS 587"],
+        titles: ["Mungu yeny yor i cwinya \n(Zaburi 139:23,24)", "Search me, O God"],
+        body: [
+            ["Mungu yeny yor i cwinya kpo, nyuth ira gin ma rac.\nTek an akier i weng'i Rwoth, konya atuce kpo."]["Keth der uwok i ka ma col, wek adag dubona.\nKeth giramung'a ceke de nyuthre ngbeng' ira do."]["Yeny pidoia ceke de ka ma lemdubo wok.\nKum In Idagu dubo dit, konya adage de."]["Yeny cil ma weng'i ma ve mac uketh' der rom ia.\nMan tek der peri nyutho kier ayi aweke kpo."]["Tel wia i yo peri cu cil ma kwo para thum.\nCil ma atundo i polo, arum the tiendi Rwoth."]
+        ]
+    },
+    {
+        id: '96',
+        key: "Ab",
+        tempo: "4/4",
+        collections: ["SSS 287", "SW 302"],
+        titles: ["Jalar wawinjo Lembe \n(Juefeso 1:3)", "Lord, Dismiss Us"],
+        body: [
+            ["Jalar wawinjo Lembe peri, kawono wabeyenyo dok\nKonywa wacidh ku pido piri, ku lembe ma Iweco ri.\nWatim tic iri kum wameri, wek wabed jumaleng' mandha."],
+            ["Wafoyi Rwoth mwa Yesu Kristu, m'umio mugisa iwa.\nWafoyi de kum Lembe peri ma en e thala ni yo mwa.\nWabed jumandha i tic ceke, waruk lem ponji peri cu."],
+            ["Man ka Jalar mwa Yesu Kristu bilwong'owa i ka maleng'\nWabed ayika waromb kude, anyong'a pong' kum wawore.\nMan nja ku nja de wapak Yesu, wan waku juwadwa mae."],
+        ]
+    },
+    {
+        id: '97',
+        key: "Eb",
+        tempo: "4/4",
+        collections: ["IH 38", "SW 163"],
+        titles: ["Jakwac mwa ma Rwoth", "Saviour like a Shepherd"],
+        body: [
+            ["Jakwac mwa ma Rwoth mi bero ceke\nGwok rombeni ku ba ceng'.\nMi cemo ni rombe peri ceke, miwa kwen ma nja ku nja.\n(Jalar Yesu, Jalar Yesu, gwokwa rombe peri do! x2)"],
+            ["Masendi ni bang'wa nindo ceke\nWan wa ng'ic waromo ngo.\nAbidhe pa Jok de nuti bang'wa gwokwa yo ku beroni\n(Jalar Yesu, Jalar Yesu, dong iwinj warwo iri x2)"],
+            ["Nindo ceke bed i bang'wa Yesu, kony wacung i tegoni,\nWan walubi calku yeny m'Iyenyo man wayungi ku ba ceng'.\n(Jalar Yesu, Jalar Y esu, bed i bang 'wa ku ba ceng x2)"],
+        ]
+    },
 ];
