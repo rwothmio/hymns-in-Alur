@@ -3039,4 +3039,134 @@ var hymns = [
             ["Kadok alonjra ku piny mi ng'om yu\nE giramia m'urem dit iri.\nMerni m'Imara ko jai ira ndhu, atingra dho amira iri."],
         ]
     },
+    {
+        id: '222',
+        key: "C",
+        tempo: "4/4",
+        collections: ["BA 113", "IH 121", "SW 288"],
+        titles: ["Yesu vuto i liel", "Low in the Grave"],
+        body: [
+            ["Yesu vuto i liel Yesu Jalarna, Endre Evoyo liel, Yesu\nRwodha.", "Con kan Eai kud i liel En Evoyo tho ma e jakwor.\nEn Eai jatego, man Evoyo liel, man Ebedo kwo\nKu dhanu pare nja. (En Eai x2) Haleluya Yesu ai!"],
+            ["Jukur' avuje de, Yesu Jalarna, ento jukuro kwe, Yesu\nRwodha.", "Con kan Eai kud i liel En Evoyo tho ma e jakwor.\nEn Eai jatego, man Evoyo liel, man Ebedo kwo\nKu dhanu pare nja. (En Eai x2) Haleluya Yesu ai!"],
+            ["Juciko bang'e de Yesu Jalarna, ento juciko kwe, Yesu\nRwodha.", "Con kan Eai kud i liel En Evoyo tho ma e jakwor.\nEn Eai jatego, man Evoyo liel, man Ebedo kwo\nKu dhanu pare nja. (En Eai x2) Haleluya Yesu ai!"],
+            ["Tho ponjo voye de, Yesu Jalarna, ento eponjo kwe, Yesu\nRwodha", "Con kan Eai kud i liel En Evoyo tho ma e jakwor.\nEn Eai jatego, man Evoyo liel, man Ebedo kwo\nKu dhanu pare nja. (En Eai x2) Haleluya Yesu ai!"],
+            ["Evoyo tho ira, Yesu Jalarna afoye dit mandha, Yesu\nRwodha.", "Con kan Eai kud i liel En Evoyo tho ma e jakwor.\nEn Eai jatego, man Evoyo liel, man Ebedo kwo\nKu dhanu pare nja. (En Eai x2) Haleluya Yesu ai!"],
+        ]
+    },
+    {
+        id: '223',
+        key: "D",
+        tempo: "4/4",
+        collections: ["BA 114", "IH 122", "v"],
+        titles: ["Yesu Kristu ai k'i liel", "Christ the Lord is Risen"],
+        body: [
+            ["Yesu Kristu ai k'i liel, Haleluya!\nJu m'i polo nene tel, Haleluya!\nNdiri tho Edaru kpo, Haleluya!\nWan wawero ku mutoro, Haleluya!"],
+            ["Tic pa Kristu ceke thum, Haleluya!\nKum Etho pi dhanu yu, Haleluya!\nDubo copo bime ngo, Haleluya!\nTho ceke de Evoyo, Haleluya!"],
+            ["Aloci mi tho ane? Haleluya!\nMan ke kwirne de ane? Haleluya!\nYesu voyo tho ma gwei, Haleluya!\nWan wafoyo Rwoth awe, Haleluya!"],
+            ["Dong' wacopo idh i polo, Haleluya!\nBanja ceke Yesu culo, Haleluya!\nKristu telo yo iwa, Haleluya!\nWan wanwang'u kwo ma nja, Haleluya!"],
+        ]
+    },
+    {
+        id: '224',
+        key: "B",
+        tempo: "6/8",
+        collections: ["BA 115", "IH 124", "SW 289"],
+        titles: ["Ang'eyo Yesu nuti", "He Lives"],
+        body: [
+            ["Ang'eyo Yesu nuti Eni i ia tin,\nWaweco karacelo ku rwo ku ba rupiny.\nEting'a kan apodho, Ejuko cwinya dit,\nJatego kpom'ukonya i can ma lic.", "Eai, Eai!\nEvoyo tho ma gwei!\nAlubo toke ku ba ceng' i woth mi bedopwe.\nEai, Eai!\nEne Jatego kpo!\nJawarna bedo kwo mandha, Ebedo i ia."],
+            ["Ekonyo dhanu ceke m'ugeno tegone, Etelo wi jupare\nI yo mi bedopwe. Kadwogo pare dhingo kan\nEbicokowa, biterowa, wabed kuca bang'e nja.", "Eai, Eai!\nEvoyo tho ma gwei!\nAlubo toke ku ba ceng' i woth mi bedopwe.\nEai, Eai!\nEne Jatego kpo!\nJawarna bedo kwo mandha, Ebedo i ia."],
+            ["Ifoi Jalar areri, Evoyo ndiba kpo, mutorone bikonyi,\nEbedekonyo jo. Iyie, gene, wore, ku pidoic ma cu,\nJarimoni e Yesu ma Rwoth mi kwo.", "Eai, Eai!\nEvoyo tho ma gwei!\nAlubo toke ku ba ceng' i woth mi bedopwe.\nEai, Eai!\nEne Jatego kpo!\nJawarna bedo kwo mandha, Ebedo i ia."],
+        ]
+    },
+    {
+        id: '225',
+        key: "Eb",
+        tempo: "3/2",
+        collections: [],
+        titles: ["Haleluya! Juciko liel", "The strife is o'er"],
+        body: [
+            ["(Haleluya! x3) Juciko liel, masendi thum,\nJalar mwa voyo tho iwa, wapake ndhu ku pak mandha,\nHaleluya!"],
+            ["Eii ku tho ku kero dit, jukwoj Kristu Elalu dra.\nJuwero wej anyong'a kwa, Haleluya!"],
+            ["Evuto ceng' adeki liel, ento Eai ku dwong' ma dit.\nWayungi Rwoth mi wiwa In, Haleluya!"],
+            ["Goc peri cangu juperi kum kwir mi tho m'ukayugi,\nWanwang'u kwo, wapaku in, Haleluya!"],
+        ]
+    },
+    {
+        id: '226',
+        key: "F",
+        tempo: "4/4",
+        collections: [],
+        titles: ["Ka lembe wok i ia pi Jalar", "When I Think how they Crucified my Lord"],
+        body: [
+            ["Ka lembe wok i ia pi Jalar, lembene ma jupadu ko wang'e,\nAkayo, aka! Eketho ia pido, aka, aka!\nLembene ma jupadu ko wang'e."],
+            ["Ka lembe wok i ia pi Jalar, lembene ma jugure ko kor yen.\nAkayo, aka! Eketho ia pido, aka, aka!\nLembene ma jugure ko kor yen."],
+            ["Ka lembe wok i ia pi Jalar,\nKa ng'et Yesu jucobo de ku tong'\nAkayo, aka! Eketho ia pido, aka, aka!\nKa ng'et Yesu jucobo de ku tong'"],
+            ["Ka lembe wok i ia pi Jalar, lembene ma\nJuyike ko i liel, akayo, aka! Eketho ia pido, aka, aka!\nLembene ma juyike ko i liel."],
+            ["Ka lembe wok i ia pi Jalar, lembene ma Ecer kudo m'Etho.\nAfoyo andha! Eketho ia wang' li, (andha x2)\nLembene ma Ecer kudo m'Etho."],
+            ["Ka lembe wok i ia pi Jalar, lem m'Eketho ko ia doko tar.\nAfoyo andha! Eketho ia wang' li, (andha x2)\nLem m'Eketho ko ia doko tar."],
+        ]
+    },
+    {
+        id: '227',
+        key: "E",
+        tempo: "6/8",
+        collections: ["IH 458", "SW 94"],
+        titles: ["Yang' con wi got Golgotha", "There is a Green Hill"],
+        body: [
+            ["Yang' con wi got Golgotha, wi yen m'atharane,\nJuguro Yesu ma Jalar m'utho pi dhanu pet.", "Emaruwa ku mer mandha, e wan wamare de.\nWang'eyo rimbe waruwa, watimo ire de."],
+            ["Masendi pare pore ngo, m'Esendre ko piwa.\nKu ter ma pek m'Eyeyo no kum kier ku dubo mwa.", "Emaruwa ku mer mandha, e wan wamare de.\nWang'eyo rimbe waruwa, watimo ire de."],
+            ["Etero dubo mwa bor cen, Eculo banja mwa,\nEkelo iwa genogen, wanwang'u kwo ma nja.", "Emaruwa ku mer mandha, e wan wamare de.\nWang'eyo rimbe waruwa, watimo ire de."],
+            ["Jalar mwa Yesu romo ndhu ni kabu kwir mi tho.\nEyabu polo iwa ku rimbe m'ulwoko jo.", "Emaruwa ku mer mandha, e wan wamare de.\nWang'eyo rimbe waruwa, watimo ire de."],
+        ]
+    },
+    {
+        id: '228',
+        key: "Eb",
+        tempo: "2/2",
+        collections: ["BA 12", "IH 409", "SW 317"],
+        titles: ["Tho meni tho mi kum", "My Faith Looks Up"],
+        body: [
+            ["Tho meni tho mi kum, etho ma nja de ngo, tic pare thum.\nKume mae m'utop wadwoke ndhu i ng'om,\nEnwang'u yom ma nja, enwang'u yom."],
+            ["Tho meni tho mi kum, etho ma nja de ngo, can pare thum.\nEyom ivut Yesu, eyom ivut Yesu\nEnwang'u yom ma nja, enwang'u yom."],
+            ["Tho meni tho mi kum, e tho ma nja de ngo, bicer kendo.\nYesu m'uvoyo tho biloko kume do,\nEn de bi ai i liel bi ai kendo."],
+            ["Tho meni tho mi kum, e tho ma nja de ngo, eni polo.\nEbedo k'anyong'a i kwo ma nja ku nja,\nI polo ba Jalar Yesu Kristu."],
+        ]
+    },
+    {
+        id: '229',
+        key: "Db",
+        tempo: "6/4",
+        collections: ["BA 96", "IH 132", "SW 263"],
+        titles: ["Ikuro Yesu tin?", "Jesus May Come Today"],
+        body: [
+            ["Ikuro Yesu tin? Ebidwogo! Nyo fok' iyie ngo,\nCwinyi iloko de ngo, tek nwangu Edwogo tin?", "Ebidwogo, Yesu m'Ubimo mwa\nKu dwand malaika, dwal ma dit,\nMan dwand agwara winjre mit,\nWacok dhogwa, wabed ku Yesu nja."],
+            ["Wakuro Yesu tin, Ebidwogo! Yesu biterowa\nKuca i polo mi nja, wa ju ma wagene tin.", "Ebidwogo, Yesu m'Ubimo mwa\nKu dwand malaika, dwal ma dit,\nMan dwand agwara winjre mit,\nWacok dhogwa, wabed ku Yesu nja."],
+            ["Lworo binega ngo, Ebidwogo! Ka pokolembe wok,\nPara juketho wi Rwoth yang' con kan Etho pira.", "Ebidwogo, Yesu m'Ubimo mwa\nKu dwand malaika, dwal ma dit,\nMan dwand agwara winjre mit,\nWacok dhogwa, wabed ku Yesu nja."],
+            ["Ayeny' awoth ma pwe, Ebidwogo! Lewic binega ngo,\nAbijole k'anyong'a, tek Yesu bidwogo tin.", "Ebidwogo, Yesu m'Ubimo mwa\nKu dwand malaika, dwal ma dit,\nMan dwand agwara winjre mit,\nWacok dhogwa, wabed ku Yesu nja."],
+        ]
+    },
+    {
+        id: '230',
+        key: "F",
+        tempo: "4/4",
+        collections: ["BA 97", "IH 140", "SW 259"],
+        titles: ["Ceng' moko Yesu bicoko dhogwa", "When Jesus Comes"],
+        body: [
+            ["Ceng' moko Yesu bicoko dhogwa, sukulia tie iwa,\nKan Ebikoro i tic mwa ceke, girang'o m'ukier iwa?", "Ceng' moko Yesu bicoko dhogwa,\nWabifoyo cokrine?\nNyo Ebinwang'u ya wan wanindo?\nKie! Kie! Ebitundo rek!"],
+            ["Ka piny uru poi Jalar bidwogo! Ebilwong'o nyingwa kpo,\nMan tek Etuco pi tic m'atimo, tije nyo atime cu?", "Ceng' moko Yesu bicoko dhogwa,\nWabifoyo cokrine?\nNyo Ebinwang'u ya wan wanindo?\nKie! Kie! Ebitundo rek!"],
+            ["Mugisa pare ni ju m'ukio dwogo pare ku ba ceng'.\nJu ma girwo ma gikuri gigi, ma woth migi ceke leng'.", "Ceng' moko Yesu bicoko dhogwa,\nWabifoyo cokrine?\nNyo Ebinwang'u ya wan wanindo?\nKie! Kie! Ebitundo rek!"],
+        ]
+    },
+    {
+        id: '231',
+        key: "G",
+        tempo: "4/4",
+        collections: ["BA 98", "SW 273"],
+        titles: ["Ceng' moko wabicung'i wang' Yesu", "Saved through Jesus' Blood"],
+        body: [
+            ["Ceng' moko wabicung'i wang' Yesu ku ju m'ucer k'i tho.\nRwoth mwa bituco lembe mwa ceke,\nBilwong'o nyingwa kpo.", "Ebilwong'o nying jupare kpo,\nJumaleng' ma rimb Yesu ng'iewo\nKan Elwong'o nyinga abiyi, Yesu tho pira."],
+            ["Rwoth mwa bimio sukulia de ni ju m'uvoyo ng'om,\nMan wabibedo kude i polo ma rondo ku rondo.", "Ebilwong'o nying jupare kpo,\nJumaleng' ma rimb Yesu ng'iewo\nKan Elwong'o nyinga abiyi, Yesu tho pira."],
+            ["Dong' wabibedo ku jupare nja, wapokra kendo ngo,\nMan wabibolo ter mwa the tiend Rwoth, e wabinwang'u yom.", "Ebilwong'o nying jupare kpo,\nJumaleng' ma rimb Yesu ng'iewo\nKan Elwong'o nyinga abiyi, Yesu tho pira."],
+        ]
+    },
 ];
