@@ -2519,4 +2519,129 @@ var hymns = [
             ["Abed the yen m'athara, kabedo mange mbe.\nAyenyo para ya anen der m'i wang' Yesu Rwoth.\nKud apid pi lembe mi ng'om, can piny ku lonyo de.\nLewic unega pi dubna, ami dwong' ni Rwoth Yesu."],
         ]
     },
+    {
+        id: '181',
+        key: "Eb",
+        tempo: "4/4",
+        collections: ["HP 18"],
+        titles: ["Yesu yenyo wa jukwenda", "Brighten the Corner"],
+        body: [
+            ["Yesu yenyo wa jukwenda watim tic ire, kum Eyenyo ngo\nYa dhanu rwiny, wabikonyo jo i can\nKu tego pa Yesu, kum Yesu bedo i cwinywa.", "(Wan wa jukwenda pa Yesu x2) Nying Yesu watuco\nKa ceke ni dhanu yu, wan wa jukwenda pa Yesu."],
+            ["Yesu yenyo wa cokwenda wawoth kind dhanu, wajuk\nJu ma can utimogi. Watuc igi pi Yesu Jalar,\nMa e Jajuk, watim ku tego m'Emio.", "(Wan wa jukwenda pa Yesu x2) Nying Yesu watuco\nKa ceke ni dhanu yu, wan wa jukwenda pa Yesu."],
+            ["Yesu yenyo wa monkwenda waponj jumanyir ya rimb\nYesu cwir nibodhogi. Tek giyie Ebilarugini can\nMa dit, bikonyogi nibedo cu.", "(Wan wa jukwenda pa Yesu x2) Nying Yesu watuco\nKa ceke ni dhanu yu, wan wa jukwenda pa Yesu."],
+            ["Yesu yenyo wan aradu waponj nyithindho giyi Yesu\nRwoth m'umarugi. Gikan Lem pa Mungu i cwinygi,\nGisag dubo, gidong' atira ni Yesu.", "(Wan wa jukwenda pa Yesu x2) Nying Yesu watuco\nKa ceke ni dhanu yu, wan wa jukwenda pa Yesu."],
+        ]
+    },
+    {
+        id: '182',
+        key: "Ab",
+        tempo: "3/4",
+        collections: ["IH 22", "SW 164"],
+        titles: ["Yesu tela i yo ceke", "All the Way my Saviour"],
+        body: [
+            ["Yesu tela i yo ceke, an ayenyo mange ngo.\nYesu tho pi dubna bende. Man Edoko jatel yo.\nLembe pare e m'ujuka kud i can m'asendra ko,\n(An ang'eyo kan asendra, Yesu e m'utelo yo x2)"],
+            ["Yesu tela i yo ceke kud i yo m'ugondre swa.\nTek atagu mina bero, In i Yesu, kwen mi kwo.\nKan aol, m'ayenyo voc de, rieu pi talu dwanda kau.\n(Abinwang'u pi i cana, Yesu e m'utelo yo x2)"],
+            ["Yesu tela i yo ceke, yo m'ucidho kamaleng'.\nAbinwang'u yom i bang'e man anwang'u can de mbe.\nAbifoyo jatel wia kum Etelo wia ber.\n(Abipaku Yesu Kristu kum Etelo wia ber x2)"],
+        ]
+    },
+    {
+        id: '183',
+        key: "F",
+        tempo: "4/4",
+        collections: ["CV 232", "SW 197"],
+        titles: ["Kan abidhe sendo cwinya", "He will Hold me Fast"],
+        body: [
+            ["Kan abidhe sendo cwinya, Yesu kura En.\nYioyicna voc i ia, Yesu kura En do.", "Yesu kura En, Yesu kura En\nKum Jalarna mara sagu, Yesu kura En."],
+            ["An aponjo mok' i kume, mak' Ekura En.\nMerna kwio, wang'a cido, mak' Ekura En do.", "Yesu kura En, Yesu kura En\nKum Jalarna mara sagu, Yesu kura En."],
+            ["An a lonyo dit i wang'e, keth Ekura En.\nEbegwoka kum Ebodha, keth Ekura En do.", "Yesu kura En, Yesu kura En\nKum Jalarna mara sagu, Yesu kura En."],
+            ["Yesu ng'iewa En ku rimbe, dong' Ekura En.\nEbigama be i bang'e dong' Ekura En do.", "Yesu kura En, Yesu kura En\nKum Jalarna mara sagu, Yesu kura En."],
+        ]
+    },
+    {
+        id: '184',
+        key: "Ab",
+        tempo: "3/4",
+        collections: ["IH 324"],
+        titles: ["Ju ma jusendogi", "Faith of our Fathers"],
+        body: [
+            ["Ju ma jusendogi pi yioyic gineno can, jutimogi rac.\nJumulogi ku goc ma lith, jumoko de juwang'u ku mac.", "Yioyic ma giciro ko, wan de wacir ko cil i tho."],
+            ["Jucanyugi ku kidi de, palamularu negogi le.\nMange jutwiogi de ku kol, yioyic migi lokre de ngo.", "Yioyic ma giciro ko, wan de wacir ko cil i tho."],
+            ["Kadok jumoko sendowa, wan wabed yo ku mer mandha.\nDong' wanyai lem mi kwo asu, ku bedopwe, ku lembe ma cu.", "Yioyic ma giciro ko, wan de wacir ko cil i tho."],
+        ]
+    },
+    {
+        id: '185',
+        key: "G",
+        tempo: "6/8",
+        collections: ["IH 125"],
+        titles: ["Wacidhu wu paker", "Move Forward"],
+        body: [
+            ["Wacidhu wu paker pa Rwoth m'Enyolowu ku yo mi both.\nWuai tho tho, wuci yau yau, wucwal tic man wurende pio.", "Wacidhu, wacidhu\nWothi yo mi kwo.\nWacidhu, wacidhu\nRwoth Yesu menyo yo."],
+            ["Wacidhu ndhu kubang'wa yu ka palacam e eni ndhu.\nJukai mwoka wupoi pi koth, emaru nyotho cam pa Rwoth.", "Wacidhu, wacidhu\nWothi yo mi kwo.\nWacidhu, wacidhu\nRwoth Yesu menyo yo."],
+            ["Wacidhu kud amora do kum jumalaika kengowa.\nUdul mi jumulembe de gitiekowa gikonyowa.", "Wacidhu, wacidhu\nWothi yo mi kwo.\nWacidhu, wacidhu\nRwoth Yesu menyo yo."],
+            ["Wacidhu, ceng' udhingo mwony,\nKu mudho ticne timbre ngo.\nWuai ku rwo wukweru kpo, wulok cwiny ju m'urwinyo do.", "Wacidhu, wacidhu\nWothi yo mi kwo.\nWacidhu, wacidhu\nRwoth Yesu menyo yo."],
+        ]
+    },
+    {
+        id: '186',
+        key: "D",
+        tempo: "6/8",
+        collections: ["SS l, 67"],
+        titles: ["Wer ma mit wok", "O Say but I'm GIad"],
+        body: [
+            ["Wer ma mit wok i cwinya tin wer ma yang' con embe,\nYesu Jalar kabu dubna cen, anyong'a mandha", "(Anyong'a benega dit x2) Yesu bibino\nAnyong'ana kwa, anyong'a mandha."],
+            ["Tek can uwok i adundena, merne ukonya dit.\nWeja bibedo i cwinya nja, anyong'a mandha.", "(Anyong'a benega dit x2) Yesu bibino\nAnyong'ana kwa, anyong'a mandha."],
+            ["Ribri ma ber nuti kindwa tin wan waku Jalar mwa.\nBedo i Yesu e ber jufwa, anyong'a mandha.", "(Anyong'a benega dit x2) Yesu bibino\nAnyong'ana kwa, anyong'a mandha."],
+            ["Wubin i bang'e ku can mu kpo man Ebilaruwu.\nWun wubiwero pi merne nja, anyong'a mandha.", "(Anyong'a benega dit x2) Yesu bibino\nAnyong'ana kwa, anyong'a mandha."],
+        ]
+    },
+    {
+        id: '187',
+        key: "G",
+        tempo: "4/4",
+        collections: ["SSS 749"],
+        titles: ["Ejutic mi mwoka", "O where are the Reapers?"],
+        body: [
+            ["Ejutic mi mwoka julwong'owu nikayu i mwoka pa Yesu\nRwoth, ku pala mi lembe jutimo tic,\nJutime asu cil i ceng' pa Rwoth.", "Jutic ni kani ma kumgi mor, ma yenyo ya Mungu\nYung'gi ceng ajok? E ng'a bibino nikonyowa,\nNicoko camne juter i kal?"],
+            ["Ka mwoka e eni i ng'om ceke, e jubedo diedo\nKum mwokane. Jutim ticne lam ento camne lwar,\nE kudi wagal ki kum palacam.", "Jutic ni kani ma kumgi mor, ma yenyo ya Mungu\nYung'gi ceng ajok? E ng'a bibino nikonyowa,\nNicoko camne juter i kal?"],
+            ["Wubin dong' ku pala wu jumaleng' wacokra k'amora\nI mwokane. Keth cwinywu kum tic cil i ceng'\nPa Rwoth, mutoro bisagre i ceng ajok.", "Jutic ni kani ma kumgi mor, ma yenyo ya Mungu\nYung'gi ceng ajok? E ng'a bibino nikonyowa,\nNicoko camne juter i kal?"],
+        ]
+    },
+    {
+        id: '188',
+        key: "E",
+        tempo: "4/4",
+        collections: ["IH 152", "SW 69"],
+        titles: ["Yer lembe ma mit dit", "The Comforter has Come"],
+        body: [
+            ["Yer lembe ma mit dit ni dhanu yu mi ng'om,\nLem juk m'ukonyo ju m'usendri dit ku can.\nJuyic gicidh giyer kud anyong'a mandha\nJajuk udaru wok. (dar versi ceke kumeno)", "(Jajuk udaru wok x2) ma Mungu oro re,\nKum lembang'olane, Yer ngbeng ni dhanu yu\nCil ma ging'eyo ko Jajuk uwok i ng'om."],
+            ["Jukuro kendo ngo, Eyenyo dhanu yu gimi ire kaka\nM'Ebed i cwinygi kpo. Eromgi gibed tek nitimo\nTic ni Rwoth ---", "(Jajuk udaru wok x2) ma Mungu oro re,\nKum lembang'olane, Yer ngbeng ni dhanu yu\nCil ma ging'eyo ko Jajuk uwok i ng'om."],
+            ["Eyenyo bimo bim i cwiny ju ma gi leng',\nGimiri dho ire tegone romgi cu.\nEtel wigi i tic Ekonj mugisa dit ---", "(Jajuk udaru wok x2) ma Mungu oro re,\nKum lembang'olane, Yer ngbeng ni dhanu yu\nCil ma ging'eyo ko Jajuk uwok i ng'om."],
+            ["Wacopo poro ngo mer ma Emaru ko ju ma gidubo\nSwa gikwero berone. Wan ma waromo\nNyoth wabirieny cal kude ---", "(Jajuk udaru wok x2) ma Mungu oro re,\nKum lembang'olane, Yer ngbeng ni dhanu yu\nCil ma ging'eyo ko Jajuk uwok i ng'om."],
+        ]
+    },
+    {
+        id: '189',
+        key: "E",
+        tempo: "4/4",
+        collections: ["IH 39"],
+        titles: ["Lembe pa Mungu mit", "Where He Leads"],
+        body: [
+            ["Lembe pa Mungu mit dit mandhandha, sagu lembe\nMange ceke ma juwinjo. Kristo ebedo leng'\nTar sagu pei, en e jampor ni jupare, walub toke!", "Ka---m'Etelo wia,\n(Ka me'telo wia, abilubo toke)\nA---bilube do,\nKa---me' telo wia,\n(ka m'Etelo wia abilubo toke)\nLube ku ba ceng' ceke."],
+            ["Mer ma Yesu nyutho mit sagu kpo, mer mi dhanu\nCopo pore kude ungo. Kisa ni ju m'ukier,\nBedo mandha, en e jampor ni jupare walub toke!", "Ka---m'Etelo wia,\n(Ka me'telo wia, abilubo toke)\nA---bilube do,\nKa---me' telo wia,\n(ka m'Etelo wia abilubo toke)\nLube ku ba ceng' ceke."],
+            ["Winj lem pare mi mer \"Bin bang'a do,\"\nTer ma pek m'unuri de i bol i kore. Gen lembang'olane\nGilokri ngo, jeng'i kor Jalarni de, e cwinyi bed tek.", "Ka---m'Etelo wia,\n(Ka me'telo wia, abilubo toke)\nA---bilube do,\nKa---me' telo wia,\n(ka m'Etelo wia abilubo toke)\nLube ku ba ceng' ceke."],
+        ]
+    },
+    {
+        id: '190',
+        key: "Ab",
+        tempo: "3/4",
+        collections: ["IH 514", "SW 217"],
+        titles: ["Yesu wacu wanen \n(Yoana 4:35; Isaya 53:6)", "Far & Near the Fields"],
+        body: [
+            ["Yesu wacu wanen ba p-o-thi ya gicek m'uromo ni kayu.\nThelembene wa ju pa Mungu wasai juma giywagu both.", "Rwoth wakweyi yep adundewa,\nWinjwa Rwoth watuco kier mwa,\nKum wagalu, wabedo nyap de,\nWatimo tic peri ber ungo."],
+            ["Orwa Yesu wacidh wayer piri ni ju ma girwinyo i dubo,\nDiewor de bebino pio ma jutimo tic moko ngo.", "Rwoth wakweyi yep adundewa,\nWinjwa Rwoth watuco kier mwa,\nKum wagalu, wabedo nyap de,\nWatimo tic peri ber ungo."],
+            ["In i jayic ma Rwoth uori igalu dwong' e rombe berwinyo,\nTek icidho ikelo rombene, Rwoth bimio jambkermiwic.", "Rwoth wakweyi yep adundewa,\nWinjwa Rwoth watuco kier mwa,\nKum wagalu, wabedo nyap de,\nWatimo tic peri ber ungo."],
+        ]
+    },
 ];
