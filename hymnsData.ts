@@ -5216,4 +5216,220 @@ Judode Rwoth mi rwodhi kpo, mugisa kwa Emio nja.`, `(Wawer kud anyong'a x2)
 Wawer, wawer kud anyong' a.`],
             ]
       },
+      {
+            id: '212',
+            key: "A",
+            tempo: "4/4",
+            collections: ["BA 107", "IH 48", "SW 283"],
+            titles: ["Wubin, nen Wod Mungu", "O Come all ye Faithful"],
+            body: [
+                  [`Wubin, nen Wod Mungu, pake kud anyong'a.
+Junyole mukere i Behtlehem.
+Tipo maleng ubino wi min mire,
+(Wubin wuyung Wod Mungu x3) Yesu Jalar.`],
+                  [`Jumalaika wero karacelo kudwa,
+Wumi dwong' ni Mungu ma malu ngbir.
+Dong cwinywu kwi wu dhanu mi mutoro,
+(Wubin wuyung Wod Mungu x3) Yesu Jalar.`],
+                  [`Wajoli Rwoth Yesu kum Iwok i kindwa,
+Warum ku jurieko wayungi k'ajok.
+In mi Rucwic Ironjri ku kum ng'eca,
+(Wubin wuyung Wod Mungu x3) Yesu Jalar.`],
+            ]
+      },
+      {
+            id: '213',
+            key: "C",
+            tempo: "6/8",
+            collections: ["BA 108", "IH 44", "SW 284"],
+            titles: ["Lembe ma mit", "Silent Night, Holy Night"],
+            body: [
+                  [`Lembe ma mit, iwa wang' li, mudho ng'eny, der urieny.
+Jubewero pir Imanuel. Mungu loro ing'om ve nyathin.
+Yesu Kristu ma Rwoth, Yesu Jalarna m'uwok.`],
+                  [`Lembe ma mit, iwa wang' li, Ju mi thim rwo i lum.
+Kwiocwiny ku mutoro ni ng'om,
+Kwo ma nja bed ni dhanu m'utho.
+Yesu Kristu ma Rwoth, Yesu Jalarna m'uwok.`],
+                  [`Lembe ma mit, iwa wang' li, jukwac ai ringo pio
+Kud anyong'a nineno nyathin,
+Girwo bang'e girum ire dwe.
+Yesu Kristu ma Rwoth, Yesu Jalarna m'uwok.`],
+                  [`Yesu ma Rwoth, Imanuel, wafoyi, warwo de
+Ve jurieko m'uai i tung' ng'om,
+Gin mi cingwa ku kumwa de dho,
+Wan wamio ni Rwoth, Yesu Kristu ma Jalar.`],
+            ]
+      },
+      {
+            id: '214',
+            key: "G",
+            tempo: "4/4",
+            collections: ["BA 109", "SW 325, 326"],
+            titles: ["Jukwac gikuro rombe", "While the Shepherds Watched"],
+            body: [
+                  [`Jukwac gikuro rombe ma gibedo ndhu i thim.
+Malaika wok m'uai ba Rwoth e der ucarugi.`],
+                  [`Gilworo dit, malaika re uwacu “Kud ulwor,
+Rwonglembe mir anyong'a dwong', ubed ni dhanu kpo."`],
+                  [`Junyolo tin i Bethlehem, i kal pa Daudi Rwoth,
+Jalar ma Yesu Kristu Rwoth ma Wod Mungu Wego.`],
+                  [`E meni giranyuthane, juboyo nyathinne
+Ku bongu mi mukere, man jupiele ka mi cam.`],
+                  [`E eni eni malaika gipaku Mungu mit.
+Giyero lembanyong'a ma bijuko dhanu dit.`],
+                  [`Pak Mungu Rwoth ma malu ngbir. Emio kwiocwiny.
+Mutoro bed ba dhanu yu ma Mungu foyogi.`],
+            ]
+      },
+      {
+            id: '215',
+            key: "G",
+            tempo: "4/4",
+            collections: ["BA 110", "IH 42", "SW 278"],
+            titles: ["E Bethlehem m'ibedo nok", "O Little Town of Bethlehem"],
+            body: [
+                  [`E Bethlehem m'ibedo nok ivuto yo i thim,
+Ku cero de gilingo wii, e piny ceke ling' ti.
+Ento i mudho nino juneno der dwong'.
+Erieny ni ju m'uyenyo both, ni dhanu yu mi ng'om.`],
+                  [`Maria nyolo Yesu m'e mukere ma Jalar.
+Ku diewor bu jukuro ru nyathin ma pire lwar.
+Cil cero de gidunyo anyong'ane mi both.
+Ubimo mio kwiocwiny wi dhanu yu mi ng'om.`],
+                  [`Ku piny ma col ma biti man ku diewor ma ling',
+E giramia wok iwa ma Yesu Jalar mwa.
+Juwinjo wer mi polo ka Yesu wok i ng'om,
+Man ke Emondo i cwiny ju muyie, ju m'urwo.`],
+                  [`Nyathin ma leng' mi Bethlehem, bin, mond i iwa tin.
+Wodh dubo mwa lwok iwa de, bin nyolwa wadok nyen.
+Wafoyo kum Iloro ni kelo iwa both.
+Bed bang'wa Rwoth, rom iwa Rwoth, ma In Imanuel.`],
+            ]
+      },
+      {
+            id: '216',
+            key: "G",
+            tempo: "4/4",
+            collections: ["BA 111", "SSS 32", "SW 286"],
+            titles: ["I adhura pa Rwoth Daudi", "Once in Royal David's City"],
+            body: [
+                  [`I adhura pa Rwoth Daudi, i dwond dhiang' junyolo Rwoth.
+Min uboyo nyathin pare man epiele ndhu i dwol.
+Mariamu min nyathin, Yesu En e nyathinne.`],
+                  [`En Eloro kud i polo, man Etundo piny i ng'om.
+En Ebedo i kind dhanu, man Ebedoni Mungu.
+Tic mi bau Eponjo dit, man Eworo won ku min.`],
+                  [`Fodi e nyathin m'aradu ere cwinye mbe ku co.
+Man Edongo ndhu ku bero, min de kothe ber mandha.
+Wun awia mange kpo, wutim tic ku woro kwa.`],
+                  [`Kan Edoko jalawobi En Eciro abidhe.
+Lembe ceke mulo ie, kero pare voc de ngo.
+Meni En, Ekonyowa, kum Eng'eyo lembe mwa.`],
+                  [`Ceng' mange ka wabinene tek wamaru lem pare.
+Wabinene mal'i polo karacelo ba Mungu.
+En Elonyo iwa njwa, wabibedo kuca nja.`],
+            ]
+      },
+      {
+            id: '217',
+            key: "Ab",
+            tempo: "3/4",
+            collections: ["BA 112", "SW 280"],
+            titles: ["I dwol karacelo", "Away ina Manger"],
+            body: [
+                  [`I dwol karacelo ku kana ku dhiang',
+Rwoth Yesu juketho i kacam mi lim.
+E welo ma dit, ento jung'eye ngo,
+Ebino ni yenya kum a jadubo.`],
+                  [`Rwoth Yesu ameri ma an de nyathin.
+Ajoli i ia, kura ku ba ceng',
+I mudho ku der de tel wia, Yesu.
+Kar' alund amond i beng'i i polo.`],
+            ]
+      },
+      {
+            id: '218',
+            key: "D",
+            tempo: "3/4",
+            collections: ["IH 50"],
+            titles: ["Ka jukwac ma gini thim", "The First Noel"],
+            body: [
+                  [`Ka jukwac ma gini thim gibekwayu rombe,
+E malaika wok bang' gi m'utuco lembe
+Ya junyolo Yesu Rwoth kuca i Bethlehem,
+E wawero k'anyonga kum Ewok i ng'om.`, `(Noel x4) Yesu ubimo mir Israel.`],
+                  [`E gineno der ma dit kan erieny ku diewor.
+Lworo negogi ento juyero kumae,
+"Kwiocwiny ni dhanu yu, ku mutoro mandha
+Kum junyolo Rwoth Yesu Jalar mi ng'om yu."`, `(Noel x4) Yesu ubimo mir Israel.`],
+                  [`Juadek ma gi jurieko gineno cero
+Ya enyutho kakare m'Evuto i ot.
+E girwo ni Rwoth Jalar ku gin ma pire lwar,
+Mo, ku mola, udok de ma ng'wice ng'wi ng'ar.`, `(Noel x4) Yesu ubimo mir Israel.`],
+                  [`Dong' wapak nying Yesu dre, e wathiera ire.
+Man warwo ire Rwoth mi polo ku ng'om de.
+Rimbe oi nilaruwa kan Emire piwa,
+Dong' wafoyo Wod Mungu kum e Jalar mwa.`, `(Noel x4) Yesu ubimo mir Israel.`],
+            ]
+      },
+      {
+            id: '219',
+            key: "G",
+            tempo: "3/4",
+            collections: ["IH 53", "SW 282"],
+            titles: ["Malaika wero ni jukwac", "There's a Song in the Air"],
+            body: [
+                  [`Malaika wero ni jukwac ma n'i thim, man giyero igi:
+"Lworo kud unegwu, kum wakelo rwonglembe ma dit
+Ni ng'om yu, ya junyolo Jalar ma Yesu Kristu Rwoth."`],
+                  [`Wang'uic sagu dit kud anyonga mandha, giranyutha iwa,
+Wego mio Wode. E junyole mukere i ka cam mi dhiang'.
+Ere, En e Ubimo m'Ejwigre kumae.`],
+                  [`Jumange bino de, cero rieny telo yo, man ecungo wi ka
+Ma junyolo nyathin. Jurieko gibino githiero ire
+Giramia ma tung tung' ma giyunge ko.`],
+                  [`Dwong' ni Mungu cil tin kum Emio iwa
+Lembe mi kwiocwiny pi Jalar mi ng'om yu.
+Dong' watimo ang'o ire m'Ejwigre dit?
+Maku wan de wamira ni Yesu ma Rwoth.`],
+            ]
+      },
+      {
+            id: '220',
+            key: "C",
+            tempo: "4/4",
+            collections: ["BA 38", "IH 302", "SW 44"],
+            titles: ["Yesu loro, jolo can", "Man of Sorrows"],
+            body: [
+                  [`Yesu loro, jolo can kar' Elar judubo wan.
+Aka! Edoko jacan. Haleluya! E Jalarna!`],
+                  [`Dhanu yanye, caye dit, julubne de weke pet.
+Jupade, jufode lith. Haleluya! E Jalarna!`],
+                  [`Dubo cidowa col kuu, yo maleng' waweko yu
+Yesu re E leng' ma njwa. Haleluya! E Jalarna!`],
+                  [`Kan Etho ko mire ma! Tho ku liel Ekaku dra,
+Kan Eidho ba Wegwa. Haleluya! E Jalarna!`],
+            ]
+      },
+      {
+            id: '221',
+            key: "F",
+            tempo: "4/4",
+            collections: ["BA 39", "IH 423", "SW 55"],
+            titles: ["Pi yen m'athara", "When I Survey"],
+            body: [
+                  [`Pi yen m'athara wapid pire be
+Ma Rwoth mi polo utho i wie.
+Giki ma naka kuloka ira ceke mananu, kuhaya kwa.`],
+                  [`Ikwera Yesu ya kud alula, endre agen tho m’Itho ko pira.
+Gin m'uyenyo wilo wia piri aweke ceke ni kunm rimbi.`],
+                  [`Masendi m'Isendri ko i kumwa
+Nyutho mer peri m'Imaru kowa,
+Yau mer ma dit ma rokeni ane? Can ma dit ma rokeni ane?`],
+                  [`Kadok alonjra ku piny mi ng'om yu
+E giramia m'urem dit iri.
+Merni m'Imara ko jai ira ndhu, atingra dho amira iri.`],
+            ]
+      },
 ];
