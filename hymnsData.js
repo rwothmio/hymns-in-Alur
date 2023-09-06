@@ -70,7 +70,7 @@ var hymns = [
     titles: ["Mungu Rwoth ma leng'", "Holy, Holy, Holy"],
     body: [
       [
-        "Mungu Rwoth ma leng' kwe, m\u2019I jatego ceke,\n  Pir kugweno wer mwa de idho i beng'i tin.\n  Mungu Rwoth ma leng' kwe, jatego, jakisa.\n  Mungu acel m'unyuthre i adek.",
+        "Mungu Rwoth ma leng' kwe, m'I jatego ceke,\n  Pir kugweno wer mwa de idho i beng'i tin.\n  Mungu Rwoth ma leng' kwe, jatego, jakisa.\n  Mungu acel m'unyuthre i adek.",
       ],
       [
         "Mungu Rwoth ma leng' kwe, ju m'uboth gipeki,\n  Gin girwo i beng'i ku the komker m'uberieny.\n  Malaika mi polo, de girum i weng'1,\n  M'Itie ku kwong'a, tin de, nja ku nja.",
@@ -100,7 +100,7 @@ var hymns = [
         "Ubimo ma dwong' wapeki, Mungu m'umeri ketho\n  Kwong' mi dubo mwa i wii, dwoki lam mi dubo kpo.\n  In i kendi m'Iromo, kum Ivoyo tho iwa.",
       ],
       [
-        "Ubimo ma dwong' wapeki, kum Icer kind ju m'utho.\n  Kristo pa Mungu wayungi, Ibibimo dhanu yu.\n  In i kendi m\u2019Iromo, kum i Rwoth mi rwodhi kpo.",
+        "Ubimo ma dwong' wapeki, kum Icer kind ju m'utho.\n  Kristo pa Mungu wayungi, Ibibimo dhanu yu.\n  In i kendi m'Iromo, kum i Rwoth mi rwodhi kpo.",
       ],
     ],
   },
@@ -272,7 +272,7 @@ var hymns = [
         "Ameri ma kwo, abimeri k'i tho,\n  Kanyong'a mi cwinya apeki ndhu cu.\n  Tek kuma bivoc maku apeki asu.\n  Rwoth Yesu ameri ku mer ma sagu kpo.",
       ],
       [
-        "Iudi m\u2019lyiko i polo ma njwa,\n  Abifoyi Rwodha, mutoro mandha.\n  Ku jamker i wia abiwero pak iri,\n  Rwoth Yesu ameri ku mer ma sagu kpo.",
+        "Iudi m'lyiko i polo ma njwa,\n  Abifoyi Rwodha, mutoro mandha.\n  Ku jamker i wia abiwero pak iri,\n  Rwoth Yesu ameri ku mer ma sagu kpo.",
       ],
     ],
   },
@@ -465,7 +465,7 @@ var hymns = [
         "Ka watundo i polo wabinwang'u mutoro dit mandha.\n  Ka waneno Yesu wabibepaku nyinge nja.",
       ],
       [
-        "Dong' wabed asu ku tic m\u2019Emio, wagene p\u0131 tego ku ba ceng'.\n   Sukulia pare nuti wabinwang'e ka ma leng.",
+        "Dong' wabed asu ku tic m'Emio, wagene p\u0131 tego ku ba ceng'.\n   Sukulia pare nuti wabinwang'e ka ma leng.",
         "Ka watundo i polo wabinwang'u mutoro dit mandha.\n  Ka waneno Yesu wabibepaku nyinge nja.",
       ],
       [
@@ -1083,7 +1083,7 @@ var hymns = [
         "Der mi kwo para e Yesu Rwoth, imenyo ira y yo mi both.\nLem mi ng'om an ayenyo ngo, egeng'o weng'i ira do.",
       ],
       [
-        "Ka tic m'atimo ola mandha iting 'o ira ter ma pek.\nApoi pi yom m\u2019Imio ri, kan abibedo i beng'i.",
+        "Ka tic m'atimo ola mandha iting 'o ira ter ma pek.\nApoi pi yom m'Imio ri, kan abibedo i beng'i.",
       ],
       [
         "Bed i bang'a ku ba rupiny kpo, kum tek Itie Ikwio cwinya.\nIkura Yesu dieceng' du, In i Mungu, Inindo ngo.",
@@ -1153,7 +1153,7 @@ var hymns = [
         "Rwodha, ng'wek kwen mi kwo, ng'wek ira tin,\nCalu Ing'weko ninde con dhu nam.\nLembe m'ubedo kwo, ayenyo In,\nAndha Yesu avani nega dit.",
       ],
       [
-        "Rwodha, nyai lemandha, nyai ia tin,\nCalu inyayu kwen ni dhanu con.\nEbilund gonya k\u2019i mudho ma bi,\nLembe biketh' abed ma cwinya kwi.",
+        "Rwodha, nyai lemandha, nyai ia tin,\nCalu inyayu kwen ni dhanu con.\nEbilund gonya k'i mudho ma bi,\nLembe biketh' abed ma cwinya kwi.",
       ],
       [
         "In de i kwen mi kwo, ira Rwodha.\nLembe peri ma leng e m'ulara,\nM'uketh abedo kwo de nja ku nja,\nYesu Kristu ma lem mi kwo, Rwodha.",
@@ -2072,7 +2072,7 @@ var hymns = [
         "Por ma wang'a tal i beng'i gin kpo rwinyo i wang'a.\nDwong' peri de woki cwinya m'aneno ram juguri.\n(Kpo bed iri In i Yesu m' aneno ram juguri x2)",
       ],
       [
-        "Ei ia wang' li i kumi, In m\u2019Ibimo rwodhi kpo.\nIdwok ndhu ni jamerni, Iketh ayom the bombi.\n(Kpo bed iri In i Yesu, Iketh ayom the bombi x2)",
+        "Ei ia wang' li i kumi, In m'Ibimo rwodhi kpo.\nIdwok ndhu ni jamerni, Iketh ayom the bombi.\n(Kpo bed iri In i Yesu, Iketh ayom the bombi x2)",
       ],
     ],
   },
@@ -3391,7 +3391,7 @@ var hymns = [
         "Wabicungo i wang' Jalar mwa, Ebikoro i tic mwa kpo.\nLewic ni ju ma cing' gi nanu, an ayenyo para ngo.",
       ],
       [
-        "An alworo ngo tho m\u2019unega kum aboth ni kum rimb Yesu,\nEnto cidho ma cinga nanu ebedieng'o cwinya dit.",
+        "An alworo ngo tho m'unega kum aboth ni kum rimb Yesu,\nEnto cidho ma cinga nanu ebedieng'o cwinya dit.",
         "Wabicungo i wang' Jalar mwa, Ebikoro i tic mwa kpo.\nLewic ni ju ma cing' gi nanu, an ayenyo para ngo.",
       ],
       [
@@ -4735,7 +4735,7 @@ var hymns = [
         "(Anyong'a kwa, anyong'ana x2)\nKa abineno Yesu Jalarna\nMeno bibedo anyong'ana kwa.",
       ],
       [
-        "I polo abipaku ru Yesu kum tho m\u2019Etho ko abimondo be.\nBedo m'abibedo kwo i bang'e,\nBibed' anyong'ana ma nja ku nja.",
+        "I polo abipaku ru Yesu kum tho m'Etho ko abimondo be.\nBedo m'abibedo kwo i bang'e,\nBibed' anyong'ana ma nja ku nja.",
         "(Anyong'a kwa, anyong'ana x2)\nKa abineno Yesu Jalarna\nMeno bibedo anyong'ana kwa.",
       ],
     ],
@@ -5037,7 +5037,7 @@ var hymns = [
         "Pi yen m'athara wapid pire be\nMa Rwoth mi polo utho i wie.\nGiki ma naka kuloka ira ceke mananu, kuhaya kwa.",
       ],
       [
-        "Ikwera Yesu ya kud alula, endre agen tho m\u2019Itho ko pira.\nGin m'uyenyo wilo wia piri aweke ceke ni kunm rimbi.",
+        "Ikwera Yesu ya kud alula, endre agen tho m'Itho ko pira.\nGin m'uyenyo wilo wia piri aweke ceke ni kunm rimbi.",
       ],
       [
         "Masendi m'Isendri ko i kumwa\nNyutho mer peri m'Imaru kowa,\nYau mer ma dit ma rokeni ane? Can ma dit ma rokeni ane?",
