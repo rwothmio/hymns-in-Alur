@@ -5683,4 +5683,151 @@ Jumaleng' ma rimb Yesu ng'iewo
 Kan Elwong'o nyinga abiyi, Yesu tho pira.`],
             ]
       },
+      {
+            id: '232',
+            key: "F",
+            tempo: "4/4",
+            collections: ["BA 125", "IH 507"],
+            titles: ["Nindo becikukadhu", "Sands of time"],
+            body: [
+                  [`Nindo becikukadhu, rupiny de ni ceng'ni,
+Kinde ma Yesu dwogo ni coko jupare.
+Piny de ucido col dit, ere rupiny biwok,
+E dwong' bicaru polo ceng'ni vut Yesu.`],
+                  [`Kristu e pi m'udhenyni, man pige mit mandha!
+I ng'om abile nyanok i polo abimadhe dit.
+I polo kisa sagre m'ecopo pore ngo,
+E dwong' ucaru polo ceng'ni vut Yesu.`],
+                  [`Rwoth Yesu e jamerna, man an a jamerne.
+Ejola ndhu i bang'e an m'a jadubo dit.
+Ageno bero pare kum bero para mbe,
+Abicungo ndhu i wang'e ni kum berone.`],
+                  [`An abineno Yesu m'a pido ru pire,
+Ma wang'a tal i bang'e, Ubimo mi bero.
+Apoi pi poyo cinge, jamkermiwic re ngo.
+Nyathi Rombo Ene dwong'ne kuca i polo.`],
+            ]
+      },
+      {
+            id: '233',
+            key: "G",
+            tempo: "4/4",
+            collections: [],
+            titles: ["Ceng' ma dwong biwok", "There's a Sweet Day Coming"],
+            body: [
+                  [`Ceng' ma dwong biwok ba mi poko lembe,
+Ceng' ma dwong' biwok nindo ma nok.
+Jumaleng' ku judubo bipokri acam k'acwic,
+Ibed' ayika ni cenguno?`, `Iyikrine? iyikrine?
+Iyikrineni dwogo pa Yesu?
+Iyikrine? iyikrine?
+ni lembapoka?`],
+                  [`Ceng' anyong'a biwok ba mutoro mandha,
+Ceng anyong'a biwok andhandha. Anyong'a ni ju m'umaru
+Yesu kende ba, ibed' ayika ni cenguno?`, `Iyikrine? iyikrine?
+Iyikrineni dwogo pa Yesu?
+Iyikrine? iyikrine?
+ni lembapoka?`],
+                  [`Ceng' mi can biwok ba ceng'ne ceng mi ywak,
+Ceng' mni can biwok nindo ma nok. Ka jadubo biwinjo:
+"Ai cen kum ang'ei ngo!" Ibed' ayika ni cenguno?`, `Iyikrine? iyikrine?
+Iyikrineni dwogo pa Yesu?
+Iyikrine? iyikrine?
+ni lembapoka?`],
+            ]
+      },
+      {
+            id: '234',
+            key: "D",
+            tempo: "4/4",
+            collections: ["BA 144", "IH 77"],
+            titles: ["Yesu Kristu e nyathin pa Mungu", "I Love Him"],
+            body: [
+                  [`Yesu Kristu e nyathin pa Mungu, Yesu Kristu e
+Jalar mi dhanu. Etho kor yen pi dhanu mi ng'om yu.
+Wulok cwinyu kawono wuyi Yesune.`, `Bidwogo, bidwogo
+Edwogo kendo be
+Nicoko dhanu m'uyie gibed kugi.`],
+                  [`Yesu Kristu con Eai i polo, Elor i ng'om ni bodho judubo,
+Kadok eng'eyo dubo tak de ngo,
+Etho kor yen nilaruwa wa judubo.`, `Bidwogo, bidwogo
+Edwogo kendo be
+Nicoko dhanu m'uyie gibed kugi.`],
+                  [`Juguro Yesu wi yen m'athara, m'Enyutho ko mer
+Pare ni dhanu, kara dhanu ginwang' kwo i bang'e.
+Elwok dubo migi ceke gibed leng' njwa.`, `Bidwogo, bidwogo
+Edwogo kendo be
+Nicoko dhanu m'uyie gibed kugi.`],
+            ]
+      },
+      {
+            id: '235',
+            key: "E",
+            tempo: "4/4",
+            collections: ["VT 4 - 188"],
+            titles: ["Wunen Yesu Ebebino", "Lo, He Comes"],
+            body: [
+                  [`Wunen Yesu Ebebino, yang Evoyo iwa tho.
+Jumaleng' rubanga dupa, gibebino kude ndhu
+(Haleluya, Haleluya, Ebibimo dhanu yu x2)`],
+                  [`Kwond wang' ceke gibinene, ku jamker i cinge de.
+Ju ma yang' gicaye bende, man ku ju m'ugure de.
+(Gin de gibiywak ku can kwa kum gikwero Yesu Rwoth x2)`],
+                  [`Dhanu ceke yungo nyingi, kum i Rwoth mi Rwodhi kpo
+Dong' Ibin ljol ker peri, man ku dwong' m'Ivoyo ko.
+(Haleluya, Haleluya, wan wakio dwogoni x2)`],
+            ]
+      },
+      {
+            id: '236',
+            key: "Ab",
+            tempo: "4/4",
+            collections: ["TH 491", "SW 271"],
+            titles: ["My Saviour First of All", "Katic para bithum"],
+            body: [
+                  [`Katic para bithum ing'om mae e abiai,
+Abicidho mal' i polo ka ma ber.
+Abineno Jalarna kan atundo bang'e ndhu.
+Ebijola ber ma ku mutoro kwa.`, `Abinene, abing'eye, poyotiende ku cinge de binen.
+Abing'eyo e Jalarna, ma jugure kor yen ni
+bodhowa.`],
+                  [`Man anyong'a binega kan awok i vute bo,
+Ka wanendra wang' ku wang' i ka maleng'
+Abipake kum kisa, ku mer pare dit andha,
+Kum kabedo ma Eyiko ira nja`, `Abinene, abing'eye, poyotiende ku cinge de binen.
+Abing'eyo e Jalarna, ma jugure kor yen ni
+bodhowa.`],
+                  [`E juwadwa ma nuti kuca gibifoyo dit,
+Ka wanendra kugi kendo ka maleng'.
+Ebiyweyo piwang'wa can mwa de birwinyo kpo.
+Wabifoyo kum waneno Yesu cu.`, `Abinene, abing'eye, poyotiende ku cinge de binen.
+Abing'eyo e Jalarna, ma jugure kor yen ni
+bodhowa.`],
+                  [`Abimondo i polo de ku kendi ma tar pu
+Ma Jalarna ronya kude maleng' njwa.
+Rimbe lonyo jupare e gibedo leng' mandha,
+E gidoko jucampacu kude nja.`, `Abinene, abing'eye, poyotiende ku cinge de binen.
+Abing'eyo e Jalarna, ma jugure kor yen ni
+bodhowa.`],
+            ]
+      },
+      {
+            id: '237',
+            key: "C",
+            tempo: "4/4",
+            collections: ["IH 43", "SW 277"],
+            titles: ["Malaika tuco lembe", "Angels from the"],
+            body: [
+                  [`Malaika tuco lembe pi nyathin ma Yesu Rwoth,
+Ma junyolo i adhura pa Rwoth Daudi i Bethlehem`, `Warum ire, kum Eromo, Wayunge Ubimo mwa.`],
+                  [`Jukwac dupa igi wang' li ka gineno dwong' pa Rwoth.
+Ka giwinjo rwonglembene gicidho kara giyunge.`, `Warum ire, kum Eromo, Wayunge Ubimo mwa.`],
+                  [`Ju ma riek gi ai yo nyangu gibino ni sayu Rwoth.
+Cero telo yo i wang'gi cil m'ecungo ko wi nyathin.`, `Warum ire, kum Eromo, Wayunge Ubimo mwa.`],
+                  [`Ka jukelo nyathin Yesu ni thiere ba Rwoth Mungu.
+Ju maleng' ma i hekalu gijole Jalar mi ng'om yu.`, `Warum ire, kum Eromo, Wayunge Ubimo mwa.`],
+                  [`Wa jupare ma wacokra ni rwo ire Jalar mwa.
+Waki bino pare kendo wabed ni jumandha i ng'om.`, `Warum ire, kum Eromo, Wayunge Ubimo mwa.`],
+            ]
+      },
 ];

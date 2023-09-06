@@ -3169,4 +3169,80 @@ var hymns = [
             ["Dong' wabibedo ku jupare nja, wapokra kendo ngo,\nMan wabibolo ter mwa the tiend Rwoth, e wabinwang'u yom.", "Ebilwong'o nying jupare kpo,\nJumaleng' ma rimb Yesu ng'iewo\nKan Elwong'o nyinga abiyi, Yesu tho pira."],
         ]
     },
+    {
+        id: '232',
+        key: "F",
+        tempo: "4/4",
+        collections: ["BA 125", "IH 507"],
+        titles: ["Nindo becikukadhu", "Sands of time"],
+        body: [
+            ["Nindo becikukadhu, rupiny de ni ceng'ni,\nKinde ma Yesu dwogo ni coko jupare.\nPiny de ucido col dit, ere rupiny biwok,\nE dwong' bicaru polo ceng'ni vut Yesu."],
+            ["Kristu e pi m'udhenyni, man pige mit mandha!\nI ng'om abile nyanok i polo abimadhe dit.\nI polo kisa sagre m'ecopo pore ngo,\nE dwong' ucaru polo ceng'ni vut Yesu."],
+            ["Rwoth Yesu e jamerna, man an a jamerne.\nEjola ndhu i bang'e an m'a jadubo dit.\nAgeno bero pare kum bero para mbe,\nAbicungo ndhu i wang'e ni kum berone."],
+            ["An abineno Yesu m'a pido ru pire,\nMa wang'a tal i bang'e, Ubimo mi bero.\nApoi pi poyo cinge, jamkermiwic re ngo.\nNyathi Rombo Ene dwong'ne kuca i polo."],
+        ]
+    },
+    {
+        id: '233',
+        key: "G",
+        tempo: "4/4",
+        collections: [],
+        titles: ["Ceng' ma dwong biwok", "There's a Sweet Day Coming"],
+        body: [
+            ["Ceng' ma dwong biwok ba mi poko lembe,\nCeng' ma dwong' biwok nindo ma nok.\nJumaleng' ku judubo bipokri acam k'acwic,\nIbed' ayika ni cenguno?", "Iyikrine? iyikrine?\nIyikrineni dwogo pa Yesu?\nIyikrine? iyikrine?\nni lembapoka?"],
+            ["Ceng' anyong'a biwok ba mutoro mandha,\nCeng anyong'a biwok andhandha. Anyong'a ni ju m'umaru\nYesu kende ba, ibed' ayika ni cenguno?", "Iyikrine? iyikrine?\nIyikrineni dwogo pa Yesu?\nIyikrine? iyikrine?\nni lembapoka?"],
+            ["Ceng' mi can biwok ba ceng'ne ceng mi ywak,\nCeng' mni can biwok nindo ma nok. Ka jadubo biwinjo:\n\"Ai cen kum ang'ei ngo!\" Ibed' ayika ni cenguno?", "Iyikrine? iyikrine?\nIyikrineni dwogo pa Yesu?\nIyikrine? iyikrine?\nni lembapoka?"],
+        ]
+    },
+    {
+        id: '234',
+        key: "D",
+        tempo: "4/4",
+        collections: ["BA 144", "IH 77"],
+        titles: ["Yesu Kristu e nyathin pa Mungu", "I Love Him"],
+        body: [
+            ["Yesu Kristu e nyathin pa Mungu, Yesu Kristu e\nJalar mi dhanu. Etho kor yen pi dhanu mi ng'om yu.\nWulok cwinyu kawono wuyi Yesune.", "Bidwogo, bidwogo\nEdwogo kendo be\nNicoko dhanu m'uyie gibed kugi."],
+            ["Yesu Kristu con Eai i polo, Elor i ng'om ni bodho judubo,\nKadok eng'eyo dubo tak de ngo,\nEtho kor yen nilaruwa wa judubo.", "Bidwogo, bidwogo\nEdwogo kendo be\nNicoko dhanu m'uyie gibed kugi."],
+            ["Juguro Yesu wi yen m'athara, m'Enyutho ko mer\nPare ni dhanu, kara dhanu ginwang' kwo i bang'e.\nElwok dubo migi ceke gibed leng' njwa.", "Bidwogo, bidwogo\nEdwogo kendo be\nNicoko dhanu m'uyie gibed kugi."],
+        ]
+    },
+    {
+        id: '235',
+        key: "E",
+        tempo: "4/4",
+        collections: ["VT 4 - 188"],
+        titles: ["Wunen Yesu Ebebino", "Lo, He Comes"],
+        body: [
+            ["Wunen Yesu Ebebino, yang Evoyo iwa tho.\nJumaleng' rubanga dupa, gibebino kude ndhu\n(Haleluya, Haleluya, Ebibimo dhanu yu x2)"],
+            ["Kwond wang' ceke gibinene, ku jamker i cinge de.\nJu ma yang' gicaye bende, man ku ju m'ugure de.\n(Gin de gibiywak ku can kwa kum gikwero Yesu Rwoth x2)"],
+            ["Dhanu ceke yungo nyingi, kum i Rwoth mi Rwodhi kpo\nDong' Ibin ljol ker peri, man ku dwong' m'Ivoyo ko.\n(Haleluya, Haleluya, wan wakio dwogoni x2)"],
+        ]
+    },
+    {
+        id: '236',
+        key: "Ab",
+        tempo: "4/4",
+        collections: ["TH 491", "SW 271"],
+        titles: ["My Saviour First of All", "Katic para bithum"],
+        body: [
+            ["Katic para bithum ing'om mae e abiai,\nAbicidho mal' i polo ka ma ber.\nAbineno Jalarna kan atundo bang'e ndhu.\nEbijola ber ma ku mutoro kwa.", "Abinene, abing'eye, poyotiende ku cinge de binen.\nAbing'eyo e Jalarna, ma jugure kor yen ni\nbodhowa."],
+            ["Man anyong'a binega kan awok i vute bo,\nKa wanendra wang' ku wang' i ka maleng'\nAbipake kum kisa, ku mer pare dit andha,\nKum kabedo ma Eyiko ira nja", "Abinene, abing'eye, poyotiende ku cinge de binen.\nAbing'eyo e Jalarna, ma jugure kor yen ni\nbodhowa."],
+            ["E juwadwa ma nuti kuca gibifoyo dit,\nKa wanendra kugi kendo ka maleng'.\nEbiyweyo piwang'wa can mwa de birwinyo kpo.\nWabifoyo kum waneno Yesu cu.", "Abinene, abing'eye, poyotiende ku cinge de binen.\nAbing'eyo e Jalarna, ma jugure kor yen ni\nbodhowa."],
+            ["Abimondo i polo de ku kendi ma tar pu\nMa Jalarna ronya kude maleng' njwa.\nRimbe lonyo jupare e gibedo leng' mandha,\nE gidoko jucampacu kude nja.", "Abinene, abing'eye, poyotiende ku cinge de binen.\nAbing'eyo e Jalarna, ma jugure kor yen ni\nbodhowa."],
+        ]
+    },
+    {
+        id: '237',
+        key: "C",
+        tempo: "4/4",
+        collections: ["IH 43", "SW 277"],
+        titles: ["Malaika tuco lembe", "Angels from the"],
+        body: [
+            ["Malaika tuco lembe pi nyathin ma Yesu Rwoth,\nMa junyolo i adhura pa Rwoth Daudi i Bethlehem", "Warum ire, kum Eromo, Wayunge Ubimo mwa."],
+            ["Jukwac dupa igi wang' li ka gineno dwong' pa Rwoth.\nKa giwinjo rwonglembene gicidho kara giyunge.", "Warum ire, kum Eromo, Wayunge Ubimo mwa."],
+            ["Ju ma riek gi ai yo nyangu gibino ni sayu Rwoth.\nCero telo yo i wang'gi cil m'ecungo ko wi nyathin.", "Warum ire, kum Eromo, Wayunge Ubimo mwa."],
+            ["Ka jukelo nyathin Yesu ni thiere ba Rwoth Mungu.\nJu maleng' ma i hekalu gijole Jalar mi ng'om yu.", "Warum ire, kum Eromo, Wayunge Ubimo mwa."],
+            ["Wa jupare ma wacokra ni rwo ire Jalar mwa.\nWaki bino pare kendo wabed ni jumandha i ng'om.", "Warum ire, kum Eromo, Wayunge Ubimo mwa."],
+        ]
+    },
 ];
