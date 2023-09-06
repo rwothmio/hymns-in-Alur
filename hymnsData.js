@@ -1838,4 +1838,134 @@ var hymns = [
             ["Kabedona juyiko cu, ugambre ceng' m'aboth.\nAbedo kuca nja ku nja, ugambre ceng' m'both.", "(Ugambre ceng' m'aboth x2) abilula ku nyinge.\nUgambre ceng' m'aboth, abilula ku nying' Jalarna."],
         ]
     },
+    {
+        id: '128',
+        key: "G",
+        tempo: "6/8",
+        collections: ["H 446", "SW 95"],
+        titles: ["Ku cwiny ma mol Eyenya", "In Tenderness He Sought Me"],
+        body: [
+            ["Ku cwiny ma mol Eyenya ka dubo voya ma!\nEbiela de wi goke, Ekela ndhu i dwol.\nMalaika de giwero wer ram werne romo polo gbur.", "Mer ma dit m'uyenya, rimone m'ung'iewa.\nBero pare kela ndhu i dwol,\nBero dwong' m'ukela ndhu i dwol."],
+            ["Elwoko rem mi dubo, Ewire ndhu ku mo,\nEnwanga kan arwinyo, Evonj i bang'a mwa.\nE dwal ma mit va pare mbe Eketho cwinya kwio lwe.", "Mer ma dit m'uyenya, rimone m'ung'iewa.\nBero pare kela ndhu i dwol,\nBero dwong' m'ukela ndhu i dwol."],
+            ["Enyutho poyo gute, e rimbe cwir de le,\nJamker ma mir ukudho, juroi i wie de.\nEnen' ang'o i ia e m'Esendre ko kumeno e?", "Mer ma dit m'uyenya, rimone m'ung'iewa.\nBero pare kela ndhu i dwol,\nBero dwong' m'ukela ndhu i dwol."],
+            ["Abedo ndhu i vute, derne ucara cwe,\nKinde m'aneno wang'e afoyo kisane.\nA rem nipeki Munguna, kadok apeki nja ku nja.", "Mer ma dit m'uyenya, rimone m'ung'iewa.\nBero pare kela ndhu i dwol,\nBero dwong' m'ukela ndhu i dwol."],
+            ["Ka nindona bekadhu, e cwinya kwio ndhu,\nAkuro piny m'uru ma bisagu wagi yu.\nKa wa juyic, mugolene, wabed i ng'ete ka maleng'.", "Mer ma dit m'uyenya, rimone m'ung'iewa.\nBero pare kela ndhu i dwol,\nBero dwong' m'ukela ndhu i dwol."],
+        ]
+    },
+    {
+        id: '129',
+        key: "D",
+        tempo: "4/4",
+        collections: ["IH 97", "SW 110"],
+        titles: ["An afoyo rimo Jalar", "Blessed be the Fountain"],
+        body: [
+            ["An afoyo rimo Jalar m'ucwir con pi dhanu mi ng'om.\nDubona m'ubedo kwar ngbo, rimone udwoke tar pu.\nCon acayu lem peri ceke, man masendi nyayu can mumbe,\nEn Elwoko kier para cen man Edwoka tar sagu pei.", "(Tar ma sagu pei x2) rimoni bidwoka tar pu,\nEdwoka tar ma sagu pei."],
+            ["Yesu yeyo kier para kpo, yen m'athara nure mandha.\nLak ukudho cobe de lith, an acangu kum goc pare dit.\nDong' atuco kier para ceke, an ayio Yesu ma Jalar.\nElwoko kier para cen man Edwoka tar sagu pei.", "(Tar ma sagu pei x2) rimoni bidwoka tar pu,\nEdwoka tar ma sagu pei."],
+            ["Vwa, akier mandha con i lum kum akwanyu yo para an.\nIn Ijuko yamu ku nam, bed Ibim wi adundena.\nTek awoth' atira alubi, abilula ku kuhaya rac.\nJwiga Yesu the rimoni, Ebidwoka tar sagu pei.", "(Tar ma sagu pei x2) rimoni bidwoka tar pu,\nEdwoka tar ma sagu pei."],
+        ]
+    },
+    {
+        id: '130',
+        key: "A",
+        tempo: "4/4",
+        collections: ["IH 280", "SW 79"],
+        titles: ["An aol ku lem dubo", "Since Jesus Came Into"],
+        body: [
+            ["An aol ku lem dubo ayeny' adok leng',\nAjoli i cwinya Jalar.\nAwek lembe ma con dong' akwany yo ma nyen,\nAjoli i cwinya Jalar.", "(Ajoli i cwinya Jalar x2) kum Inyayu anyong'a\nAfoyo mandha, ajoli i cwinya Jalar."],
+            ["Dong awotho ngo swa kum Itelo wia,\nAjoli i cwinya Jalar\nCilo ai yweire cen cwinya lonjre mandha,\nAjoli i cwinya Jalar", "(Ajoli i cwinya Jalar x2) kum Inyayu anyong'a\nAfoyo mandha, ajoli i cwinya Jalar."],
+            ["Lem ma jiji de mbe wang'a lero ku der,\nAjoli i cwinya Jalar\nPiny ulero de her keth' awoth i derne,\nAjoli i cwinya Jalar", "(Ajoli i cwinya Jalar x2) kum Inyayu anyong'a\nAfoyo mandha, ajoli i cwinya Jalar."],
+            ["Dong' awinjo pi polo kabedo ma ber,\nAjoli i cwinya Jalar\nAn aneno Rwoth Yesu m'Edoko won ker,\nAjoli i cwinya Jalar", "(Ajoli i cwinya Jalar x2) kum Inyayu anyong'a\nAfoyo mandha, ajoli i cwinya Jalar."],
+            ["Dong' aloyo abidhe ku dubo mi ng'om, Abedo ku Yesu Jalar.\nKu ba ceng' Ebekonya kum tegone dwong',\nAbedo ku Yesu Jalar.", "(Ajoli i cwinya Jalar x2) kum Inyayu anyong'a\nAfoyo mandha, ajoli i cwinya Jalar."],
+        ]
+    },
+    {
+        id: '131',
+        key: "G",
+        tempo: "3/4",
+        collections: ["IH 416", "SW 86"],
+        titles: ["Bero pa Mungu kaporne mbe", "Grace Greater Than"],
+        body: [
+            ["Bero pa Mungu kaporne mbe,\nBerone lwar ma sagu kier mwa.\nKuca wi Kalvari Kristo tho,\nRimb Nyathi Rombo pa Mungu cwir.", "Bero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBerone romo nilwoko ic.\nBero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBero ma dit sagu dubna kpo."],
+            ["Dubo ma kwar ngbo i cwinywa kpo,\nKetho warwinyo bor ku Mungu.\nBero pa Mungu ma porne mbe\nNyutho kapondo, yen m'athara.", "Bero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBerone romo nilwoko ic.\nBero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBero ma dit sagu dubna kpo."],
+            ["Dubo mi cwinywa ekandre ngo,\nWayeny ang'o m'ulwokwa ndhu cu?\nNen, rimo thwogre wi Kalvari,\nRimo bilwoki tar sagu pei.", "Bero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBerone romo nilwoko ic.\nBero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBero ma dit sagu dubna kpo."],
+            ["Bero ma thum de ngo nja ku nja, giramia ni ju m'uyie.\nWun ma wuyenyo wunen wang' Rwoth,\nWubin wujol bero pare tin.", "Bero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBerone romo nilwoko ic.\nBero..... Bero.....\n(Bero ma dit) (Ma pore ngo)\nBero ma dit sagu dubna kpo."],
+        ]
+    },
+    {
+        id: '132',
+        key: "",
+        tempo: "",
+        collections: [],
+        titles: ["The ter mi dubo", "Abundant Life"],
+        body: [
+            ["The ter mi dubo ku pidocwiny dhanu moko cur acura.\nGicopo bedo kud anyong'a tek ginwang'u kwo ma rondo.", "(Kwo x3) ma mi nja, Yesu e kende jamicne\n(Kwo x3) m'usagre, dwong' ubed ire m\u00ED rondo,"],
+            ["I ng'atu ma dubo benuri ku can ma kwonde tung' tung' de.\nLok cwinyi kawono man ijol kwo m'usagre i Rwoth Yesu.", "(Kwo x3) ma mi nja, Yesu e kende jamicne\n(Kwo x3) m'usagre, dwong' ubed ire m\u00ED rondo,"],
+            ["A, pi tego pa Tipo Maleng'! A, pi yepocwiny m'apila!\nA, pir udul de m'umbe lworo, ayikra pi bino pare.", "(Kwo x3) ma mi nja, Yesu e kende jamicne\n(Kwo x3) m'usagre, dwong' ubed ire m\u00ED rondo,"],
+        ]
+    },
+    {
+        id: '133',
+        key: "Ab",
+        tempo: "6/8",
+        collections: ["CH 221"],
+        titles: ["Tek in iol ku lem dubo", "If you are Tired"],
+        body: [
+            ["Tek in iol ku lem dubo, jamer, kwai Yesu Ewek dubo peri.\nTek in iyenyo inwang' kwo ma nyen, igen tego pa Yesu Rwoth.", "Kawono, kud ikwere, kawono, yab ire do\nKawono tuc duboni kwai Yesu Elwok cwinyi leng'."],
+            ["Tek in iyenyo adunde ma leng' kwai Yesu Ewek dubo peri.\nRimb Yesu cwir nilwoko duboni, yi ire ya rimbe lonyi.", "Kawono, kud ikwere, kawono, yab ire do\nKawono tuc duboni kwai Yesu Elwok cwinyi leng'."],
+            ["Tek cwinyi dieng', kwiocwiny mbe ma gwei,\nKwai Yesu Ewek dubo peri.\nAnyong'a mi ng'om ie nanu, wada, i Yesu ibinwang'u yom.", "Kawono, kud ikwere, kawono, yab ire do\nKawono tuc duboni kwai Yesu Elwok cwinyi leng'."],
+            ["Yesu beyiko kabedo ma ber ni ju ma gijole mandhandha.\nTek in iyenyo ibed bang'e nja, ecopre ni kum yioyic.", "Kawono, kud ikwere, kawono, yab ire do\nKawono tuc duboni kwai Yesu Elwok cwinyi leng'."],
+        ]
+    },
+    {
+        id: '134',
+        key: "Eb",
+        tempo: "6/8",
+        collections: ["BA 37", "CV 60", "SW 102"],
+        titles: ["Rwoth Yesu yenyo jumandha", "The Great Physician"],
+        body: [
+            ["Rwoth Yesu yenyo jumandha, Jukristu ma giwore.\nMa cwinygi kpo ubedo tar, m'uripo ku pa Yesu.", "Ameri Yesu In ma Rwoth, ora e abicidho yot.\nAbituco lem mi both, Yesu ma Jakisa."],
+            ["Rwoth Yesu yenyo jumandha niponjo Lembe pare.\nNi ju m'urwinyo, ma Jalar usendre pigi bende.", "Ameri Yesu In ma Rwoth, ora e abicidho yot.\nAbituco lem mi both, Yesu ma Jakisa."],
+            ["Rwoth Yesu yenyo jumandha ma copo voyo dubo.\nWa der mi ng'om, wapondo ngo, wawotho ngo i mudho.", "Ameri Yesu In ma Rwoth, ora e abicidho yot.\nAbituco lem mi both, Yesu ma Jakisa."],
+            ["Rwoth Yesu yenyo jumandha nikwayu rombe pare.\nWating' nyithindo migi de, wadwokgi de i dwonde.", "Ameri Yesu In ma Rwoth, ora e abicidho yot.\nAbituco lem mi both, Yesu ma Jakisa."],
+        ]
+    },
+    {
+        id: '135',
+        key: "Eb",
+        tempo: "4/4",
+        collections: ["BA 57"],
+        titles: ["Lem ma tek ubidhowa", "When Morning Comes"],
+        body: [
+            ["Lem ma tek ubidhowa wa Jukristu ma ni ng'om,\nCan ma pek unurowa, lembe dupa sendowa.\nWang'wa neno ber ungo, wang'wa umbre kud utor,\nGibilero ka wacokra bang'e nja.", "Ceng' mange wabing'eyo cu, ka wacokra malu i polo.\nWabiwero wer kud anyong'a mandha,\nNwang'u lembe ceke wok kakare cu."],
+            ["Kec unegowa i ng'om, tic de jonyo kumwa dwong'.\nNg'om uti unyayu doi, piny mwa ceke de belui\nKwaruwa gicayu cik ketho Mungu lamugi,\nEbithum ceng' ma wacokra bang'e nja.", "Ceng' mange wabing'eyo cu, ka wacokra malu i polo.\nWabiwero wer kud anyong'a mandha,\nNwang'u lembe ceke wok kakare cu."],
+            ["Tho ma negowa i ng'om, ceng' mange dong' ebithum.\nCeng' ma Rwoth ugamuwa, wabed bang'e nja ku nja.\nJu ma gibidong' i ng'om gibinwang'u can ma dwong'.\nWabineno ka wacokra bang'e nja.", "Ceng' mange wabing'eyo cu, ka wacokra malu i polo.\nWabiwero wer kud anyong'a mandha,\nNwang'u lembe ceke wok kakare cu."],
+        ]
+    },
+    {
+        id: '136',
+        key: "F",
+        tempo: "4/4",
+        collections: ["BA 58", "IH 285", "SW 177"],
+        titles: ["Anwang'u Yesu Kristu", "The Lily of the Valley"],
+        body: [
+            ["Anwang'u Yesu Kristu, Edoko jarimba,\nPire sagu dit i cwinya andhandha.\nYesu calu thiuboko ma ber ma ng'wice ng'ar,\nAn amaru Yesu dit ku cwinya kpo.", "Ekonya ceng' ku ceng' kpo, i can Enuti de,\nTer m'unura kpo Eyeyo ira de, Haleluya!\nEn e calu cero jobi, kugweno de enen.\nAn amaru Yesu dit ku cwinya kpo."],
+            ["Abidhe de besenda, e Yesu voye En,\nNik esenda dit m'acopo cire ngo.\nAn aweko Jok, aringe, ku lembe pare kpo.\nDong' alubo ng'ei jarimba, ma Yesu.", "Ekonya ceng' ku ceng' kpo, i can Enuti de,\nTer m'unura kpo Eyeyo ira de, Haleluya!\nEn e calu cero jobi, kugweno de enen.\nAn amaru Yesu dit ku cwinya kpo."],
+            ["Eweko dhanu ki ngo, Enuti ceng' ku ceng',\nTek giyie andhandha ku cwinygi kpo.\nYesu e jagwok m'ukura dieceng ku diewor de,\nMan ka kec upodho Ebirieme kpo.", "Ekonya ceng' ku ceng' kpo, i can Enuti de,\nTer m'unura kpo Eyeyo ira de, Haleluya!\nEn e calu cero jobi, kugweno de enen.\nAn amaru Yesu dit ku cwinya kpo."],
+            ["Anyong'a nego cwinya, jarimba nuti nja,\nEbigwoka ber m'Ecopo weka ngo.\nKum Enyayu foc i cwinya, mutoro dit mandha.\nAn amaru Yesu dit ku cwinya kpo.", "Ekonya ceng' ku ceng' kpo, i can Enuti de,\nTer m'unura kpo Eyeyo ira de, Haleluya!\nEn e calu cero jobi, kugweno de enen.\nAn amaru Yesu dit ku cwinya kpo."],
+        ]
+    },
+    {
+        id: '137',
+        key: "F",
+        tempo: "4/4",
+        collections: ["BA 60", "H 200", "SW 233"],
+        titles: ["Lem pa Yesu abiyio", "Where He Leads Me"],
+        body: [
+            ["(Lem pa Yesu abiyio x3) Abiyio lembe pa Yesu.", "(YomEtelo abilube x3) Abilubo ng'ei Yesu Kristu."],
+            ["(Ka can nuti abikwaye x3) Abikwayu ru Yesu Kristu.", "(YomEtelo abilube x3) Abilubo ng'ei Yesu Kristu."],
+            ["(Lem m'Eyero abiwinjo x3) Abiwinjo lembe pa Yesu.", "(YomEtelo abilube x3) Abilubo ng'ei Yesu Kristu."],
+            ["(Tic m'Emio abitimo x3) Abitimo ni Yesu Kristu.", "(YomEtelo abilube x3) Abilubo ng'ei Yesu Kristu."],
+            ["(Ka tho senda abigene x3) Abegeno ru Yesu Kristu.", "(YomEtelo abilube x3) Abilubo ng'ei Yesu Kristu."],
+        ]
+    },
 ];
