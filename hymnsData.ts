@@ -2368,15 +2368,15 @@ Konj bero peri roma, Rwoth para Yesu.`],
             titles: ["Mungu yeny yor i cwinya \n(Zaburi 139:23,24)", "Search me, O God"],
             body: [
                   [`Mungu yeny yor i cwinya kpo, nyuth ira gin ma rac.
-Tek an akier i weng'i Rwoth, konya atuce kpo.`]
+Tek an akier i weng'i Rwoth, konya atuce kpo.`],
                   [`Keth der uwok i ka ma col, wek adag dubona.
-Keth giramung'a ceke de nyuthre ngbeng' ira do.`]
+Keth giramung'a ceke de nyuthre ngbeng' ira do.`],
                   [`Yeny pidoia ceke de ka ma lemdubo wok.
-Kum In Idagu dubo dit, konya adage de.`]
+Kum In Idagu dubo dit, konya adage de.`],
                   [`Yeny cil ma weng'i ma ve mac uketh' der rom ia.
-Man tek der peri nyutho kier ayi aweke kpo.`]
+Man tek der peri nyutho kier ayi aweke kpo.`],
                   [`Tel wia i yo peri cu cil ma kwo para thum.
-Cil ma atundo i polo, arum the tiendi Rwoth.`]
+Cil ma atundo i polo, arum the tiendi Rwoth.`],
             ]
       },
       {
