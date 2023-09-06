@@ -2644,4 +2644,132 @@ var hymns = [
             ["In i jayic ma Rwoth uori igalu dwong' e rombe berwinyo,\nTek icidho ikelo rombene, Rwoth bimio jambkermiwic.", "Rwoth wakweyi yep adundewa,\nWinjwa Rwoth watuco kier mwa,\nKum wagalu, wabedo nyap de,\nWatimo tic peri ber ungo."],
         ]
     },
+    {
+        id: '191',
+        key: "G",
+        tempo: "3/4",
+        collections: ["BA 78"],
+        titles: ["Rwoth Mungu mwa uyero", "O Beulah Land"],
+        body: [
+            ["Rwoth Mungu mwa uyero ngbeng' pi polo pare ka maleng',\nEkuro ju m'ubedo cu m'ukio Wode Yesu Rwoth.", "E ka maleng' e ka m'urieny,\nMa Yesu sagu der mi ceng'.\nEyiko ndhu kabedo mwa ma beco m'ubekurowa.\nCeng' moko Ebijolowa kuca i polo nja ku nja."],
+            ["I polo pacu pa Jalar kakeca dubo mondo ngo.\nJuparu kec ku rieu de ngo man can ku tho bibedo mbe.", "E ka maleng' e ka m'urieny,\nMa Yesu sagu der mi ceng'.\nEyiko ndhu kabedo mwa ma beco m'ubekurowa.\nCeng' moko Ebijolowa kuca i polo nja ku nja."],
+            ["Juwinjo dwal mi foyofoc, ku wer ma wabepaku ko\nJalar mwa, Yesu Kristu Rwoth m'utho nimio iwa kwo.", "E ka maleng' e ka m'urieny,\nMa Yesu sagu der mi ceng'.\nEyiko ndhu kabedo mwa ma beco m'ubekurowa.\nCeng' moko Ebijolowa kuca i polo nja ku nja."],
+        ]
+    },
+    {
+        id: '192',
+        key: "Eb",
+        tempo: "4/4",
+        collections: ["BA 89", "IH 427", "SW 272"],
+        titles: ["Wabi cokra i polo", "Shall we Gather at the River"],
+        body: [
+            ["Wabi cokra i polo ku jumalaika pare.\nWabipake karacelo mal' i polo ba Mungu maleng.", "Wabinendra i polo, dhanu ceke ma giyio Yesu.\nWabibedo kud anyonga ni kum Rwoth mwa ma\nYesu Jalar."],
+            ["Con ka Yesu dok i polo Eyiko kabedo iwa,\nEbijolowa i bang'e kara wabed ndhu kuca mi nja.", "Wabinendra i polo, dhanu ceke ma giyio Yesu.\nWabibedo kud anyonga ni kum Rwoth mwa ma\nYesu Jalar."],
+            ["Wabibedo kud anyong'a ku juwadwa ma ni polo.\nWabifoye ka waneno udi dupa m'Eyiko ma cu.", "Wabinendra i polo, dhanu ceke ma giyio Yesu.\nWabibedo kud anyonga ni kum Rwoth mwa ma\nYesu Jalar."],
+            ["Ceng' mange ma Yesu dwogo, ceng' maeca dhingo ceng'ni.\nDong' wabed ku rwo, wakie, bed ayika nicidho kude.", "Wabinendra i polo, dhanu ceke ma giyio Yesu.\nWabibedo kud anyonga ni kum Rwoth mwa ma\nYesu Jalar."],
+        ]
+    },
+    {
+        id: '193',
+        key: "D",
+        tempo: "2/4",
+        collections: ["BA 90", "IH 168", "SW 204"],
+        titles: ["Bin juwada, nen abera", "Hold the Fort"],
+        body: [
+            ["Bin juwada, nen abera pa Rwoth Yesu mwa.\nEbelwong'owa jupare, En aloci mwa.", "\"Dong' wuki, kum Abibino,\" Yesu wacu re.\nWan wadwoko lembe ire \"wan wabedo nger.\""],
+            ["Rwoth bidwogo En ku kite man ku kok ma dit.\nDwand malaika kud agwara pare de biywak.", "\"Dong' wuki, kum Abibino,\" Yesu wacu re.\nWan wadwoko lembe ire \"wan wabedo nger.\""],
+            ["Wabikiedo ku jadegi ku jupare de.\nRwoth bimio tego iwa, wabivoye be.", "\"Dong' wuki, kum Abibino,\" Yesu wacu re.\nWan wadwoko lembe ire \"wan wabedo nger.\""],
+            ["Kadok mony uyenyo dhetho, Rwoth bijengowa.\nTego ceke ai i bang'e riemno bebe mwa.", "\"Dong' wuki, kum Abibino,\" Yesu wacu re.\nWan wadwoko lembe ire \"wan wabedo nger.\""],
+        ]
+    },
+    {
+        id: '194',
+        key: "Bb",
+        tempo: "4/4",
+        collections: ["BA 91", "IH 463", "SW 323"],
+        titles: ["Aneno polo yabre", "Mine Eyes Have Seen"],
+        body: [
+            ["Aneno polo yabre, man nen riuni ma tar,\nEre ngatu ma ni wie ma julwong'o Lemandha.\nMan i bedopwe Epoko lembe man Etimo mony,\nE nyinge Lemandha!", "(Dwong' ni Mungu, Haleluya! x3)\nWapaku nyinge nja!"],
+            ["Eronjre de ku kendi ma juvong'o ku rimbe,\nE jamker mi wie dupa man nying wang'e ve lebmac,\nMan ku pala ma ni dhoge En Egoyo thek ma rac,\nMungu Jategokpo.", "(Dwong' ni Mungu, Haleluya! x3)\nWapaku nyinge nja!"],
+            ["Tek idong' the kwinyone ceng' nica ibitim' ang'o?\nEbinyono pany mi kwinyo pare, ng'a bikonyi ke?\nTek ipodho ni Jategokpo enyayu ndiri kwa,\nLok cwinyi bang'e tin.", "(Dwong' ni Mungu, Haleluya! x3)\nWapaku nyinge nja!"],
+            ["Ka fodi kisa nuti ai, iyi Wod Mungu tin,\nEbijoli ngisi pare lwar, Elwong'i dong' ibin.\nTek igalu ngo iyi Jalar m'utho pi duboni, e ibipake de.", "(Dwong' ni Mungu, Haleluya! x3)\nWapaku nyinge nja!"],
+        ]
+    },
+    {
+        id: '195',
+        key: "F",
+        tempo: "4/4",
+        collections: ["BA 92", "SSS 1026", "SW 260"],
+        titles: ["Ndiri tho birwinyo", "There'll be no Dark"],
+        body: [
+            ["(Ndiri tho birwinyo ka Yesu wok, x3)\n(Nicoko jupare kpo. x3)\nNdiri tho birwinyo ka Yesu wok, nicoko jupare kpo."],
+            ["(Ndiba ceke rwinyo ka Yesu wok, x3)\n(Nicoko jupare kpo x3)\nNdiba kpo birwinyo ka Yesu wok, nicoko jupare kpo."],
+            ["(Goyo nduru rwinyo ka Yesu wok, x3)\n(Nicoko jupare kpo. x3)\nNduru kpo birwinyo ka Yesu wok, nicoko jupare kpo."],
+            ["(Wabipaku Yesu ma Wod Mungu, x3)\n(Wapake ku cwinywa kpo,: x3)\nWabipaku Yesu ma Wod Mungu, wapake ku cwinywa kpo."],
+        ]
+    },
+    {
+        id: '196',
+        key: "Ab",
+        tempo: "4/4",
+        collections: ["IH 511", "SW 256"],
+        titles: ["Ka jukudh' agwara", "When the Roll is Called"],
+        body: [
+            ["Ka jukudh' agwara kuca e wawinjo dwal ma dit,\nRundi meni thum e wan wacer k'i tho.\nKu juwadwa ceke wabirieyo kuca ka maleng',\nKa julwong'o nyinga kuca abiyi.", "(Ka julwong'o nyinga kuca, x3)\nKa julwong'o nyinga kuca abiyi."],
+            ["Wabimothra ku mutoro ka wanendra ka maleng',\nWa ku jumange m'ugeno Yesu de,\nMa juloko kumwa ceke e wanwang' u kum ma nyen.\nKa julwongo nyinga kuca abiyi.", "(Ka julwong'o nyinga kuca, x3)\nKa julwong'o nyinga kuca abiyi."],
+            ["Dong watim ni Yesu Kristu tic m'Eng'olo iwa cu,\nEn Efoyo ju m'ucung i ie ki,\nKa wadaru tije ceke wabicokra kuca kpo.\nKa julwongo nyinga kuca abiyi.", "(Ka julwong'o nyinga kuca, x3)\nKa julwong'o nyinga kuca abiyi."],
+        ]
+    },
+    {
+        id: '197',
+        key: "G",
+        tempo: "4/4",
+        collections: ["BA 99", "IH 508", "SW 266"],
+        titles: ["E Juyero ira lembe", "The Unclouded Day"],
+        body: [
+            ["E! Juyero ira lembe mi ka maleng'.\nJubewacu ya ebedo ber mandha.\nLem m'ucido kadi dhau bende mbe kuca,\nDer ma sagu ceng' urieny kuca nja.", "Polo ene ka maber, kuca dhanu gimari kindgi.\nLem mi dubo kadi tho bende mbe kuca,\nDer ma sagu ceng' urieny kuca nja."],
+            ["An awinjo ya juwada gidok kuca,\nE ginwang'u ng'ombe ber mire ma!\nMan ng'et kulo kun ku kun yen mi kwo nuti,\nKec unego ng'atu moko ngo.", "Polo ene ka maber, kuca dhanu gimari kindgi.\nLem mi dubo kadi tho bende mbe kuca,\nDer ma sagu ceng' urieny kuca nja."],
+            ["Jubewacu ya piwang' ton ungo kuca,\nKadi can umbe, jung' iero kuca dit.\nNg'ombe ber ma sagu ceke mi ng'om mae,\nAva ng'ombe nego cwinya dit.", "Polo ene ka maber, kuca dhanu gimari kindgi.\nLem mi dubo kadi tho bende mbe kuca,\nDer ma sagu ceng' urieny kuca nja."],
+            ["Jubewacu ya won pacu e Yesu Rwoth,\nMan Ebedo wi komker m'urieny tar pu.\nPacune e mola kwa, man e leng' mandha,\nAn acidho kuca ka mi kwo.", "Polo ene ka maber, kuca dhanu gimari kindgi.\nLem mi dubo kadi tho bende mbe kuca,\nDer ma sagu ceng' urieny kuca nja."],
+        ]
+    },
+    {
+        id: '198',
+        key: "Eb",
+        tempo: "2/4",
+        collections: ["BA 100", "CV 107", "SW 274"],
+        titles: ["Polo e ka ma ber", "There is a Happy Land"],
+        body: [
+            ["Polo e ka ma ber anyong'a kwa,\nPacu pa Rwoth mi kwo, pacu mandha.\nJupare wero ru, wej anyong'a ire ndhu,\nPak ma gipake ko, e pak mi nja."],
+            ["Kwany yo mi polo do, in kud igal.\nYesu betelo yo, mond ndhu i kal.\nAnyong'a nuti dit, dubo kadi can de mbe,\nIbed ba Yesu Rwoth, ndhu nja ku nja."],
+            ["Mungu bijolowa i pacune, Emaru dhanu yu,\nKu mer ma dhe. Yesu Etho piwa, En Elwoko dubo mwa,\nEdwokowa leng' njwa kum rimone."],
+        ]
+    },
+    {
+        id: '199',
+        key: "G",
+        tempo: "6/8",
+        collections: ["BA 101", "SSS 823"],
+        titles: ["Tek wun wumaru Rwoth", "We're Marching to Zion"],
+        body: [
+            ["Tek wun wumaru Rwoth, wu jumutoro kwa,\n(Wadong wapake wakudu, x2)\n(Watieko kom pa Rwoth x2)", "Wacidho, acidha, kuca i pacu pa Mungu.\nWacidho mal' i polo, adhura maleng' pa Yesu."],
+            ["Wu ju m'Enyolo nyen, nedi wupake ngo?\n(Wadong' wapak ubimo mwa x2)\n(Wa jumutoro kwa. x2)", "Wacidho, acidha, kuca i pacu pa Mungu.\nWacidho mal' i polo, adhura maleng' pa Yesu."],
+            ["Eriemo ndiba cen, e can mwa ringo kpo.\n(Piwang'wa ceke bende mbe, x2)\n(Wacidh'i ka maleng' x2)", "Wacidho, acidha, kuca i pacu pa Mungu.\nWacidho mal' i polo, adhura maleng' pa Yesu."],
+            ["Tek wun wuyio Yesu ngo m'utho piwa,\n(Wadong wayie wakudu, x2)\nDong' wabibed' i polo wakudu mi nja.", "Wacidho, acidha, kuca i pacu pa Mungu.\nWacidho mal' i polo, adhura maleng' pa Yesu."],
+        ]
+    },
+    {
+        id: '200',
+        key: "G",
+        tempo: "3/2",
+        collections: ["BA 102"],
+        titles: ["Thuwa i polo eber dit", "To Die No More"],
+        body: [
+            ["Thuwa i polo eber dit, tho ku merkum de mondo ngo.\nUsimbru udine rieny dit, ode acel ukuro an.", "Acidho thuwa ba Mungu, acidho thuwa ba Yesu.\nTho nego dhanu kuca ngo , acidho thuwa ba Mungu."],
+            ["Udi ma beco dupa tie kuca ng'ei cero malu ngbir.\nKa an aweko ng'om mae ode acel ukuro an.", "Acidho thuwa ba Mungu, acidho thuwa ba Yesu.\nTho nego dhanu kuca ngo , acidho thuwa ba Mungu."],
+            ["I ng'om abedo jawirok, masendi wok i bang'a kwa.\nKadok a calu Lazaro, thwo oda ngeng' ni kuca nja.", "Acidho thuwa ba Mungu, acidho thuwa ba Yesu.\nTho nego dhanu kuca ngo , acidho thuwa ba Mungu."],
+            ["Wek jumange yeny thugi piny,\nMa mac ku pi de nyothe cen.\nAyenyo para thwo ma ngeng' mal' i polo i vut jadwong'", "Acidho thuwa ba Mungu, acidho thuwa ba Yesu.\nTho nego dhanu kuca ngo , acidho thuwa ba Mungu."],
+            ["Ka ng'om ku cero daru mwony\nMan ceng' ku dwi girwinyo kpo.\nMan ke tek piny bimor de mbwom\nThwo oda cungo ira ngeng.", "Acidho thuwa ba Mungu, acidho thuwa ba Yesu.\nTho nego dhanu kuca ngo , acidho thuwa ba Mungu."],
+        ]
+    },
 ];
