@@ -2221,7 +2221,7 @@ var hymns = [
         body: [
             ["Ang'o m'uketho Mungu nyutho ira berone m'usagre kpo?\nKadok adubo sagu jumange e rimbe lwoko dubona.", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
             ["Ang'o m'uketho Mungu mio ira yic m'ayie keth aboth?\nMan tek ayio Lembe pare cu, Ekwio cwinya lwe.", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
-            ["Ang'o m\u2019uketho Tipo Mungu tuco i cwinya pi dubona?\nEnyutho ira Yesu i Lem pare kar' abed ku yioyic.", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
+            ["Ang'o m'uketho Tipo Mungu tuco i cwinya pi dubona?\nEnyutho ira Yesu i Lem pare kar' abed ku yioyic.", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
             ["Nyo lembang'o m'ubino i wang'a,\nLembe ma ber kadi ma rac?\nMa fod' aneno wang' Jalarna ngo masendi kadi anyonga?", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
             ["Ang eyo ngo nindo ma Rwoth bidwogo, i diewor kadi dieceng.\nNyo abikadhu tipopiny mi tho, nyo wabirombo i lietho.", "Ento an ang'eyo andhandha, ayio mandha ya En\nEcopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko."],
         ]

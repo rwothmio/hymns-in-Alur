@@ -3906,7 +3906,7 @@ Ecopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko.`],
                   [`Ang'o m'uketho Mungu mio ira yic m'ayie keth aboth?
 Man tek ayio Lembe pare cu, Ekwio cwinya lwe.`, `Ento an ang'eyo andhandha, ayio mandha ya En
 Ecopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko.`],
-                  [`Ang'o m’uketho Tipo Mungu tuco i cwinya pi dubona?
+                  [`Ang'o m'uketho Tipo Mungu tuco i cwinya pi dubona?
 Enyutho ira Yesu i Lem pare kar' abed ku yioyic.`, `Ento an ang'eyo andhandha, ayio mandha ya En
 Ecopo nigwoko gin ceke ira cil i ceng' m'Edwogo ko.`],
                   [`Nyo lembang'o m'ubino i wang'a,
